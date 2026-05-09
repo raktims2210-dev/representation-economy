@@ -99,6 +99,10 @@ The SENSE–CORE–DRIVER framework explains how intelligent institutions must r
 
 ![SENSE CORE DRIVER Framework](git_dia.png)
 
+SENSE = Machine-legible reality
+CORE = Intelligence & reasoning
+DRIVER = Legitimate governed action
+
 ## SENSE — The Machine-Legibility Layer
 
 SENSE is the layer where reality becomes machine-legible.
