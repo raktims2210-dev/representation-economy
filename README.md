@@ -78,6 +78,105 @@ The SENSE–CORE–DRIVER framework was developed by Raktim Singh as a conceptua
 The framework describes intelligent systems as three interconnected layers.
 
 ---
+## SENSE–CORE–DRIVER Framework
+
+The SENSE–CORE–DRIVER framework explains how intelligent institutions must represent reality, reason over it, and govern legitimate machine action in the AI era.
+
+---
+
+## SENSE — The Machine-Legibility Layer
+
+SENSE is the layer where reality becomes machine-legible.
+
+### SENSE stands for:
+
+- **S — Signal**  
+  Detecting events, changes, observations, and traces from the world.
+
+- **EN — ENtity**  
+  Connecting signals to the correct person, object, organization, device, asset, or system.
+
+- **S — State Representation**  
+  Maintaining the current condition, context, relationships, and status of an entity.
+
+- **E — Evolution**  
+  Continuously updating representation as reality changes over time.
+
+### SENSE answers:
+
+> “What is true enough for AI to reason over?”
+
+---
+
+## CORE — The Intelligence and Reasoning Layer
+
+CORE is the cognition and reasoning layer of intelligent systems.
+
+### CORE stands for:
+
+- **C — Comprehend Context**  
+  Understanding meaning, dependencies, and situational context.
+
+- **O — Optimize Decisions**  
+  Evaluating options, tradeoffs, and possible actions.
+
+- **R — Realize Action**  
+  Generating recommendations, plans, workflows, or actions.
+
+- **E — Evolve Through Feedback**  
+  Improving behavior and reasoning through outcomes and feedback loops.
+
+### CORE answers:
+
+> “What should be done?”
+
+---
+
+## DRIVER — The Governance and Legitimacy Layer
+
+DRIVER is the layer that governs whether intelligent systems may legitimately act.
+
+### DRIVER stands for:
+
+- **D — Delegation**  
+  Determining who authorized the system to act and under what authority.
+
+- **R — Representation**  
+  Defining what model of reality the system used during decision-making.
+
+- **I — Identity**  
+  Identifying which entities, actors, or systems are affected by the action.
+
+- **V — Verification**  
+  Validating whether conditions, policies, and constraints are satisfied.
+
+- **E — Execution**  
+  Governing how actions are carried out within bounded authority.
+
+- **R — Recourse**  
+  Managing rollback, appeals, correction, accountability, and dispute handling when systems are wrong.
+
+### DRIVER answers:
+
+> “What is authorized enough for AI to act upon?”
+
+---
+
+## Core Principle
+
+No AI system should:
+- reason over reality it cannot represent
+- or act under authority it cannot prove.
+
+---
+
+## Author
+
+Raktim Singh
+
+- Website: https://www.raktimsingh.com
+- LinkedIn: https://www.linkedin.com/in/raktimsingh
+- Repository: https://github.com/raktims2210-dev/representation-economy
 
 ## SENSE
 
@@ -160,7 +259,8 @@ It defines how intelligent action is authorized, verified, constrained, and gove
 
 DRIVER determines whether intelligent systems can operate safely, legitimately, and institutionally responsibly.
 
----
+
+- Governed Execution
 
 # Why This Matters
 
@@ -274,3 +374,8 @@ This repository is part of an ongoing effort to explore how AI changes:
 - and the future structure of intelligent organizations.
 
 ---
+## Canonical Definitions
+
+- [Canonical Definition](docs/canonical-definition.md)
+- [Representation Runtime](docs/representation-runtime.md)
+- [Legitimacy Runtime](docs/legitimacy-runtime.md)
