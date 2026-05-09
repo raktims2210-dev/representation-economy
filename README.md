@@ -95,6 +95,9 @@ The framework describes intelligent systems as three interconnected layers.
 The SENSE–CORE–DRIVER framework explains how intelligent institutions must represent reality, reason over it, and govern legitimate machine action in the AI era.
 
 ---
+## Framework Overview
+
+![SENSE CORE DRIVER Framework](git_dia.png)
 
 ## SENSE — The Machine-Legibility Layer
 
