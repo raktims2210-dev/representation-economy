@@ -17,6 +17,18 @@ The Representation Economy argues that future enterprise AI systems will increas
 - delegated authority
 - computational legitimacy
 - governed execution
+
+- ## Why Existing AI Stacks Are Incomplete
+
+Most enterprise AI stacks focus heavily on the CORE layer:
+models, reasoning systems, agents, orchestration, and inference.
+
+But enterprise AI failures increasingly originate from:
+- weak representation of reality (SENSE failures)
+- weak governance of machine action (DRIVER failures)
+
+The Representation Economy argues that future intelligent institutions must coordinate all three layers:
+SENSE → CORE → DRIVER.
 # What Is the Representation Economy?
 
 The Representation Economy is the idea that in the AI era, economic value increasingly depends on how effectively institutions can represent reality in machine-readable form before intelligence systems reason and act on it.
@@ -359,6 +371,16 @@ https://www.linkedin.com/in/raktimsingh
 https://raktimsingh.substack.com
 
 ---
+## Related Concepts
+
+- Representation Runtime
+- Legitimacy Runtime
+- Machine-Legible Reality
+- Computational Legitimacy
+- Delegation Graphs
+- Representation Quality
+- Governed Execution
+- Institutional AI Architecture
 
 # Author
 
