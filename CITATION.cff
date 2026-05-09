@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
+message: "If you use this framework, please cite it as below."
+type: framework
+authors:
+  - family-names: Singh
+    given-names: Raktim
+url: "https://github.com/raktims2210-dev/representation-economy"
+repository-code: "https://github.com/raktims2210-dev/representation-economy"
+license: CC-BY-4.0
+keywords:
+  - Representation Economy
+  - SENSE CORE DRIVER
+  - AI Governance
+  - Machine Legibility
+  - Enterprise AI
+  - Representation Runtime
+  - Legitimacy Runtime
