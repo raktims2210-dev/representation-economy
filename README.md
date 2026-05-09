@@ -3,7 +3,20 @@
 The Representation Economy and the SENSE–CORE–DRIVER framework for intelligent institutions, AI governance, machine legibility, and enterprise AI architecture.
 
 ---
+## Why This Matters
 
+As AI systems move from generating outputs to taking institutional actions, intelligence alone becomes insufficient.
+
+AI systems must:
+- represent reality correctly before reasoning
+- and govern legitimacy before acting
+
+The Representation Economy argues that future enterprise AI systems will increasingly depend on:
+- machine-legible reality
+- representation quality
+- delegated authority
+- computational legitimacy
+- governed execution
 # What Is the Representation Economy?
 
 The Representation Economy is the idea that in the AI era, economic value increasingly depends on how effectively institutions can represent reality in machine-readable form before intelligence systems reason and act on it.
