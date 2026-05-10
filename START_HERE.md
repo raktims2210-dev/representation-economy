@@ -30,3 +30,6 @@ If you are new to the Representation Economy, start with these concepts in order
 - ## Understand How Concepts Connect
 
 - [Concept Map](concept-map.md)
+
+- ```markdown
+- [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
