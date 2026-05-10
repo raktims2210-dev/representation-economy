@@ -188,6 +188,8 @@ No AI system should:
 - or act under authority it cannot prove.
 
 ---
+```markdown
+- [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
 
 ## Author
 
