@@ -62,3 +62,5 @@ That is why many AI failures are actually representation failures.
 - [Concept Map](../concept-map.md)
 - [Enterprise AI Example](../examples/enterprise-ai.md)
 - [SENSE–CORE–DRIVER Visual](../visuals/sense-core-driver.md)
+
+  
