@@ -75,3 +75,11 @@ As AI systems become more autonomous, all three layers become critical.
 - Autonomy Allocation
 - Organizational Legibility
 - AI Governance
+
+- ## Related Concepts
+
+- [Representation Economy](../glossary/representation-economy.md)
+- [SENSE–CORE–DRIVER](../glossary/sense-core-driver.md)
+- [Concept Map](../concept-map.md)
+- [Enterprise AI Example](../examples/enterprise-ai.md)
+- [SENSE–CORE–DRIVER Visual](../visuals/sense-core-driver.md)
