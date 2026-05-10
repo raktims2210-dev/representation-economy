@@ -26,3 +26,7 @@ If you are new to the Representation Economy, start with these concepts in order
 - Representation infrastructure
 - Legitimacy systems
 - Machine-readable institutions
+
+- ## Understand How Concepts Connect
+
+- [Concept Map](concept-map.md)
