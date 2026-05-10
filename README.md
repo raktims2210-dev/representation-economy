@@ -365,6 +365,10 @@ This repository contains:
 The intent is to create structured, machine-readable documentation for emerging institutional AI architectures.
 
 ---
+## Visual Models
+
+- [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
+- [Representation Economy Map](visuals/representation-economy-map.md)
 
 # Canonical Essays and Articles
 
