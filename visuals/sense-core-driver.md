@@ -23,3 +23,11 @@ C --> D[DRIVER]
 D --> E[Execution]
 E --> F[Feedback]
 F --> B
+
+## Related Concepts
+
+- [Representation Economy](../glossary/representation-economy.md)
+- [SENSE–CORE–DRIVER](../glossary/sense-core-driver.md)
+- [Concept Map](../concept-map.md)
+- [Enterprise AI Example](../examples/enterprise-ai.md)
+- [SENSE–CORE–DRIVER Visual](../visuals/sense-core-driver.md)
