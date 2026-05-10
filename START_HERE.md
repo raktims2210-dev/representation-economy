@@ -33,3 +33,8 @@ If you are new to the Representation Economy, start with these concepts in order
 
 - ```markdown
 - [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
+
+- ## Visual Models
+
+- [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
+- [Representation Economy Map](visuals/representation-economy-map.md)
