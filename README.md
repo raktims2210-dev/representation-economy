@@ -397,6 +397,15 @@ https://raktimsingh.substack.com
 - [Concept Map](concept-map.md)
 - [Glossary](glossary/)
 
+## Repository Structure
+
+- START_HERE.md → guided entry point
+- concept-map.md → conceptual relationships
+- glossary/ → canonical definitions
+- examples/ → applied interpretations
+- visuals/ → visual models and diagrams
+- questions/ → canonical question-answer explanations
+
 # Author
 
 Raktim Singh
