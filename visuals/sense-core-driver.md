@@ -2,14 +2,12 @@
 
 ```mermaid
 flowchart LR
-
 A[Reality] --> B[SENSE]
 B --> C[CORE]
 C --> D[DRIVER]
 D --> E[Execution]
 E --> F[Feedback]
 F --> B
-```
 
 ## Layer Meaning
 
