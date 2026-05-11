@@ -9,6 +9,17 @@ Extended essays, articles, and conceptual explorations related to the Representa
 * [What Is Enterprise AI? (2026 Definition)](https://www.raktimsingh.com/what-is-enterprise-ai-2026-definition/)
 * [Entity Resolution as Competitive Advantage](https://www.raktimsingh.com/entity-resolution-competitive-advantage-enterprise-ai/)
 * [Enterprise AI Control Plane](https://www.raktimsingh.com/enterprise-ai-control-plane-2026/)
+* https://www.raktimsingh.com/sense-core-driver-maturity-framework-ai-ready-institutions/
+* https://www.raktimsingh.com/representation-economy-stack-sense-core-driver/
+* https://www.raktimsingh.com/representation-economy-sense-core-driver-ai/
+* https://www.raktimsingh.com/representation-economy-questions-sense-core-driver/
+* https://www.raktimsingh.com/what-is-representation-economy-sense-core-driver/
+* https://www.raktimsingh.com/hard-questions-representation-economy-sense-core-driver-critique/
+* https://www.raktimsingh.com/new-company-stack-representation-economy/
+* https://www.raktimsingh.com/representation-utility-stack-interoperable-reality/
+* https://www.raktimsingh.com/what-is-the-representation-economy/
+* https://www.raktimsingh.com/representation-economy-sense-core-driver-51-questions/
+* https://www.raktimsingh.com/ai-enterprise-representation-modernization/
 
 ---
 
