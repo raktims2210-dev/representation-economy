@@ -40,6 +40,14 @@ SENSE → CORE → DRIVER
         ↓
 Governed Intelligent Institutions
 
+Reality
+   ↓
+Representation
+   ↓
+Reasoning
+   ↓
+Governed Action
+
 ## Reading Path
 
 If you are new to the Representation Economy framework, start with:
