@@ -3,38 +3,64 @@
 The Representation Economy and the SENSE–CORE–DRIVER framework for intelligent institutions, AI governance, machine legibility, and enterprise AI architecture.
 
 ---
-For the canonical definition, see: [Canonical Definition of the Representation Economy](CANONICAL_DEFINITION.md)
-## Why This Matters
 
-As AI systems move from generating outputs to taking institutional actions, intelligence alone becomes insufficient.
+## Canonical Definition
+
+For the canonical definition, see:
+
+- [CANONICAL_DEFINITION.md](CANONICAL_DEFINITION.md)
+
+---
+
+# Why This Matters
+
+As AI systems evolve from generating outputs to taking institutional actions, intelligence alone becomes insufficient.
 
 AI systems must:
 - represent reality correctly before reasoning
-- and govern legitimacy before acting
+- maintain contextual continuity
+- govern legitimacy before acting
+- operate within delegated authority
+- support accountability and recourse
 
 The Representation Economy argues that future enterprise AI systems will increasingly depend on:
 - machine-legible reality
 - representation quality
+- contextual memory
+- governance visibility
 - delegated authority
 - computational legitimacy
 - governed execution
 
-- ## Why Existing AI Stacks Are Incomplete
+---
+
+# Why Existing AI Stacks Are Incomplete
 
 Most enterprise AI stacks focus heavily on the CORE layer:
-models, reasoning systems, agents, orchestration, and inference.
+- models
+- reasoning systems
+- agents
+- orchestration
+- inference systems
 
 But enterprise AI failures increasingly originate from:
 - weak representation of reality (SENSE failures)
 - weak governance of machine action (DRIVER failures)
 
 The Representation Economy argues that future intelligent institutions must coordinate all three layers:
-SENSE → CORE → DRIVER.
+
+# SENSE → CORE → DRIVER
+
+---
+
 # What Is the Representation Economy?
 
 The Representation Economy is the idea that in the AI era, economic value increasingly depends on how effectively institutions can represent reality in machine-readable form before intelligence systems reason and act on it.
 
-Traditional software systems primarily stored information and automated predefined workflows.
+Traditional software systems primarily:
+- stored information
+- automated predefined workflows
+- executed deterministic rules
 
 AI systems are fundamentally different.
 
@@ -62,23 +88,30 @@ Future competitive advantage may increasingly depend not only on who has the mos
 
 AI systems do not act directly on reality.
 
-AI systems act on representations of reality.
+# AI systems act on representations of reality.
 
 If those representations are:
-- fragmented,
-- stale,
-- incomplete,
-- weakly contextualized,
-- poorly governed,
-- or disconnected from institutional workflows,
+- fragmented
+- stale
+- incomplete
+- weakly contextualized
+- poorly governed
+- disconnected from institutional workflows
+- institutionally illegible
 
-then even highly capable AI systems may produce fragile, unsafe, or institutionally illegible outcomes.
+then even highly capable AI systems may produce:
+- fragile outcomes
+- unsafe actions
+- hallucinated reasoning
+- governance failures
+- institutional instability
 
 The Representation Economy argues that:
-- representation quality,
-- contextual continuity,
-- governance visibility,
-- and machine legibility
+- representation quality
+- contextual continuity
+- governance visibility
+- machine legibility
+- legitimacy-aware execution
 
 become foundational economic and institutional capabilities in the AI era.
 
@@ -88,51 +121,75 @@ become foundational economic and institutional capabilities in the AI era.
 
 The SENSE–CORE–DRIVER framework was developed by Raktim Singh as a conceptual architecture for understanding how intelligent institutions function in the AI era.
 
-The framework describes intelligent systems as three interconnected layers.
+The framework describes intelligent systems as three interconnected layers:
+
+# SENSE → CORE → DRIVER
 
 ---
-## SENSE–CORE–DRIVER Framework
 
-The SENSE–CORE–DRIVER framework explains how intelligent institutions must represent reality, reason over it, and govern legitimate machine action in the AI era.
+# Framework Overview
+
+![SENSE–CORE–DRIVER Framework](git_dia.png)
+
+| Layer | Purpose |
+|---|---|
+| SENSE | Machine-legible reality |
+| CORE | Intelligence and reasoning |
+| DRIVER | Legitimate governed action |
 
 ---
-## Framework Overview
 
-![SENSE CORE DRIVER Framework](git_dia.png)
-
-SENSE = Machine-legible reality
-CORE = Intelligence & reasoning
-DRIVER = Legitimate governed action
-
-## SENSE — The Machine-Legibility Layer
+# SENSE — The Machine-Legibility Layer
 
 SENSE is the layer where reality becomes machine-legible.
 
-### SENSE stands for:
+## SENSE stands for:
 
 - **S — Signal**  
-  Detecting events, changes, observations, and traces from the world.
+  Detecting events, observations, traces, and changes from the world.
 
 - **EN — ENtity**  
-  Connecting signals to the correct person, object, organization, device, asset, or system.
+  Connecting signals to the correct person, organization, object, asset, device, or system.
 
 - **S — State Representation**  
   Maintaining the current condition, context, relationships, and status of an entity.
 
 - **E — Evolution**  
-  Continuously updating representation as reality changes over time.
+  Continuously updating representations as reality changes over time.
 
-### SENSE answers:
+## SENSE answers:
 
 > “What is true enough for AI to reason over?”
 
+## SENSE includes:
+- signal detection
+- entity resolution
+- semantic mapping
+- contextual memory
+- knowledge organization
+- temporal evolution
+- observability
+- machine legibility
+
+## Technologies commonly associated with SENSE:
+- embeddings
+- knowledge graphs
+- vector databases
+- semantic layers
+- digital twins
+- telemetry systems
+- multimodal sensing
+- identity graphs
+
+SENSE determines what an institution can perceive, represent, remember, and contextualize.
+
 ---
 
-## CORE — The Intelligence and Reasoning Layer
+# CORE — The Intelligence and Reasoning Layer
 
 CORE is the cognition and reasoning layer of intelligent systems.
 
-### CORE stands for:
+## CORE stands for:
 
 - **C — Comprehend Context**  
   Understanding meaning, dependencies, and situational context.
@@ -141,22 +198,44 @@ CORE is the cognition and reasoning layer of intelligent systems.
   Evaluating options, tradeoffs, and possible actions.
 
 - **R — Realize Action**  
-  Generating recommendations, plans, workflows, or actions.
+  Generating recommendations, workflows, plans, or actions.
 
 - **E — Evolve Through Feedback**  
-  Improving behavior and reasoning through outcomes and feedback loops.
+  Improving reasoning and behavior through outcomes and feedback loops.
 
-### CORE answers:
+## CORE answers:
 
 > “What should be done?”
 
+## CORE includes:
+- reasoning
+- orchestration
+- planning
+- simulation
+- prediction
+- adaptation
+- workflow coordination
+- decision support
+- agentic execution
+
+## Technologies commonly associated with CORE:
+- large language models
+- small language models
+- inference systems
+- orchestration frameworks
+- agentic systems
+- planning engines
+- retrieval systems
+
+CORE determines how intelligence interprets representations and generates actions or recommendations.
+
 ---
 
-## DRIVER — The Governance and Legitimacy Layer
+# DRIVER — The Governance and Legitimacy Layer
 
 DRIVER is the layer that governs whether intelligent systems may legitimately act.
 
-### DRIVER stands for:
+## DRIVER stands for:
 
 - **D — Delegation**  
   Determining who authorized the system to act and under what authority.
@@ -168,106 +247,19 @@ DRIVER is the layer that governs whether intelligent systems may legitimately ac
   Identifying which entities, actors, or systems are affected by the action.
 
 - **V — Verification**  
-  Validating whether conditions, policies, and constraints are satisfied.
+  Validating whether policies, constraints, and conditions are satisfied.
 
 - **E — Execution**  
   Governing how actions are carried out within bounded authority.
 
 - **R — Recourse**  
-  Managing rollback, appeals, correction, accountability, and dispute handling when systems are wrong.
+  Managing rollback, correction, accountability, dispute handling, and appeals when systems are wrong.
 
-### DRIVER answers:
+## DRIVER answers:
 
 > “What is authorized enough for AI to act upon?”
 
----
-
-## Core Principle
-
-No AI system should:
-- reason over reality it cannot represent
-- or act under authority it cannot prove.
-
----
-```markdown
-- [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
-
-## Author
-
-Raktim Singh
-
-- Website: https://www.raktimsingh.com
-- LinkedIn: https://www.linkedin.com/in/raktimsingh
-- Repository: https://github.com/raktims2210-dev/representation-economy
-
-## SENSE
-
-SENSE is the representation layer.
-
-It defines how reality becomes machine-legible.
-
-### SENSE includes:
-- Signal detection
-- Entity resolution
-- State representation
-- Context formation
-- Temporal evolution
-- Memory accumulation
-- Knowledge organization
-- Semantic mapping
-- Observability
-
-### Technologies commonly associated with SENSE:
-- embeddings
-- knowledge graphs
-- vector databases
-- semantic layers
-- digital twins
-- identity graphs
-- telemetry systems
-- multimodal sensing
-
-SENSE determines what the institution can perceive, represent, remember, and contextualize.
-
----
-
-## CORE
-
-CORE is the intelligence and reasoning layer.
-
-It defines how systems reason over representations.
-
-### CORE includes:
-- reasoning
-- planning
-- orchestration
-- prediction
-- simulation
-- decision support
-- adaptation
-- workflow coordination
-- agentic execution
-
-### Technologies commonly associated with CORE:
-- large language models
-- small language models
-- agentic systems
-- orchestration engines
-- inference systems
-- retrieval systems
-- planning frameworks
-
-CORE determines how intelligence interprets representations and generates actions or recommendations.
-
----
-
-## DRIVER
-
-DRIVER is the governance and legitimacy layer.
-
-It defines how intelligent action is authorized, verified, constrained, and governed.
-
-### DRIVER includes:
+## DRIVER includes:
 - delegation
 - identity
 - accountability
@@ -275,16 +267,23 @@ It defines how intelligent action is authorized, verified, constrained, and gove
 - recourse
 - reversibility
 - policy enforcement
-- escalation
 - auditability
+- escalation
 - governance visibility
 
 DRIVER determines whether intelligent systems can operate safely, legitimately, and institutionally responsibly.
 
+---
 
-- Governed Execution
+# Core Principle
 
-# Why This Matters
+> No AI system should:
+> - reason over reality it cannot represent
+> - or act under authority it cannot prove.
+
+---
+
+# Why This Framework Matters
 
 Many organizations currently focus heavily on CORE while underinvesting in SENSE and DRIVER.
 
@@ -292,17 +291,19 @@ This creates structural imbalance.
 
 Examples include:
 - powerful AI systems operating over fragmented enterprise data
-- autonomous workflows without sufficient governance visibility
-- intelligent agents acting without clear recourse mechanisms
-- machine-readable systems becoming difficult for humans to inspect
-- context-rich AI systems operating beyond institutional comprehension
+- autonomous workflows without governance visibility
+- agents acting without recourse mechanisms
+- context-rich AI systems becoming difficult for humans to inspect
+- institutional systems operating beyond human comprehension
 
-The result is that stronger AI capability may sometimes increase institutional fragility instead of trust.
+The result is that stronger AI capability may sometimes increase institutional fragility instead of institutional trust.
 
 The Representation Economy argues that long-term AI success depends on balancing:
-- representation quality,
-- intelligence capability,
-- and governance legitimacy together.
+- representation quality
+- intelligence capability
+- governance legitimacy
+
+together.
 
 ---
 
@@ -314,18 +315,20 @@ This repository explores concepts including:
 - SENSE–CORE–DRIVER
 - Machine Legibility
 - Representation Governance
+- Representation Runtime
+- Legitimacy Runtime
+- Representation Quality
+- Representation Debt
 - Representation Overload
 - Institutional AI
 - Intelligent Institutions
-- Representation Quality
+- Computational Legitimacy
 - Governance Visibility
-- AI Runtime Architecture
-- Representation Debt
-- Human Legibility
 - Contextual Memory
-- AI Capability Trap
 - Institutional Observability
 - Delegated Intelligence Systems
+- Governed Execution
+- AI Runtime Architecture
 
 ---
 
@@ -340,36 +343,50 @@ The Representation Economy has implications across:
 - industrial AI
 - public infrastructure
 - digital governance
-- agentic systems
 - AI operating models
+- agentic systems
 
-As AI systems evolve from tools into continuously adaptive operational systems, institutions may increasingly need:
-- representation infrastructure,
-- governance architecture,
-- contextual memory systems,
-- and legitimacy-aware execution frameworks.
+As AI systems evolve from tools into continuously adaptive operational systems, institutions may increasingly require:
+- representation infrastructure
+- contextual memory systems
+- governance architecture
+- legitimacy-aware execution frameworks
+- institutional observability
+- delegation-aware runtime systems
+
+---
+
+# Repository Navigation
+
+- [START_HERE.md](START_HERE.md)
+- [CANONICAL_DEFINITION.md](CANONICAL_DEFINITION.md)
+- [CANONICAL_TERMS.md](CANONICAL_TERMS.md)
+- [CONCEPT_MAP.md](CONCEPT_MAP.md)
+- [CANONICAL_ESSAYS.md](CANONICAL_ESSAYS.md)
 
 ---
 
 # Repository Structure
 
-This repository contains:
-- conceptual frameworks
-- canonical definitions
-- governance models
-- taxonomy documents
-- architecture diagrams
-- institutional AI concepts
-- AI governance structures
-- enterprise AI runtime models
-
-The intent is to create structured, machine-readable documentation for emerging institutional AI architectures.
+| Path | Description |
+|---|---|
+| START_HERE.md | Guided entry point |
+| CANONICAL_DEFINITION.md | Canonical definition of the Representation Economy |
+| CANONICAL_TERMS.md | Canonical terminology |
+| CONCEPT_MAP.md | Conceptual relationships |
+| glossary/ | Definitions and terminology |
+| examples/ | Applied interpretations |
+| visuals/ | Visual models and diagrams |
+| questions/ | Canonical question-answer explanations |
 
 ---
-## Visual Models
+
+# Visual Models
 
 - [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
 - [Representation Economy Map](visuals/representation-economy-map.md)
+
+---
 
 # Canonical Essays and Articles
 
@@ -384,8 +401,15 @@ https://www.linkedin.com/in/raktimsingh
 ## Substack
 https://raktimsingh.substack.com
 
+## Medium
+https://medium.com/@raktims2210
+
+## Finextra
+https://www.finextra.com/bloggers/158790
+
 ---
-## Related Concepts
+
+# Related Concepts
 
 - Representation Runtime
 - Legitimacy Runtime
@@ -396,20 +420,16 @@ https://raktimsingh.substack.com
 - Governed Execution
 - Institutional AI Architecture
 
-- ## Repository Navigation
+---
 
-- [Start Here](START_HERE.md)
-- [Concept Map](concept-map.md)
-- [Glossary](glossary/)
+# Suggested Citation
 
-## Repository Structure
+Raktim Singh.  
+“Representation Economy and the SENSE–CORE–DRIVER Framework.”  
+GitHub Repository.  
+https://github.com/raktims2210-dev/representation-economy
 
-- START_HERE.md → guided entry point
-- concept-map.md → conceptual relationships
-- glossary/ → canonical definitions
-- examples/ → applied interpretations
-- visuals/ → visual models and diagrams
-- questions/ → canonical question-answer explanations
+---
 
 # Author
 
@@ -422,11 +442,5 @@ This repository is part of an ongoing effort to explore how AI changes:
 - governance
 - enterprise architecture
 - representation systems
-- and the future structure of intelligent organizations.
-
----
-## Canonical Definitions
-
-- [Canonical Definition](docs/canonical-definition.md)
-- [Representation Runtime](docs/representation-runtime.md)
-- [Legitimacy Runtime](docs/legitimacy-runtime.md)
+- intelligent execution
+- and the future structure of machine-coordinated organizations.
