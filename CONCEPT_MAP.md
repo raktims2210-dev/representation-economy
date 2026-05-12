@@ -44,6 +44,22 @@ Representation Economy
 ````
 
 ---
+## Visual Summary
+
+```text
+Representation Economy
+        ↓
+SENSE → CORE → DRIVER
+        ↓
+Governed Intelligent Institutions
+
+Reality
+   ↓
+Representation
+   ↓
+Reasoning
+   ↓
+Governed Action
 
 # Author
 
