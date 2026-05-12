@@ -3,6 +3,7 @@
 The Representation Economy and the SENSE–CORE–DRIVER framework for intelligent institutions, AI governance, machine legibility, and enterprise AI architecture.
 
 ---
+For the canonical definition, see: [Canonical Definition of the Representation Economy](CANONICAL_DEFINITION.md)
 ## Why This Matters
 
 As AI systems move from generating outputs to taking institutional actions, intelligence alone becomes insufficient.
