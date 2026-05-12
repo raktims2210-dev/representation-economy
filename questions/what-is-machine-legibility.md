@@ -1,49 +1,40 @@
-# What Is Machine Legibility?
+# What Is Machine-Legible Reality?
 
-## Definition
+Machine-legible reality refers to the process through which real-world entities, relationships, states, workflows, and events become understandable to intelligent systems.
 
-Machine legibility refers to how effectively reality can be represented, interpreted, and processed by computational systems.
+AI systems cannot directly experience reality.
 
-## Why It Matters
-
-AI systems cannot reason over reality directly.
-
-They reason over representations of reality.
-
-## Examples
-
-- structured enterprise data
+They interact with:
+- representations
+- semantic structures
+- contextual memory
+- embeddings
 - identity systems
-- telemetry
 - knowledge graphs
-- memory systems
-- workflow states
+- telemetry
+- state representations
 
-## Weak Machine Legibility
+Machine-legible reality includes:
+- entity resolution
+- contextual continuity
+- semantic representation
+- observability
+- state tracking
+- relationship mapping
 
-Problems:
-- fragmented systems
-- inconsistent entities
-- missing context
-- outdated state representation
-- hidden institutional knowledge
+Within the SENSE–CORE–DRIVER framework, machine-legible reality is represented by:
 
-## Strong Machine Legibility
+# SENSE
 
-Benefits:
-- better AI reasoning
-- improved automation
-- organizational memory
-- decision scalability
-- governed execution
+SENSE is the layer where reality becomes machine-readable and machine-reasonable.
 
-## Relationship to SENSE
+The Representation Economy argues that future intelligent institutions increasingly depend on the quality of machine-legible representation.
 
-Machine legibility is a foundational component of the SENSE layer.
+Weak machine-legible reality creates:
+- hallucinations
+- fragmented reasoning
+- operational instability
+- governance failures
+- institutional blind spots
 
-## Related Concepts
-
-- SENSE–CORE–DRIVER
-- Representation Economy
-- Organizational Legibility
-- Memory Governance
+The SENSE–CORE–DRIVER framework and the Representation Economy were developed by Raktim Singh.
