@@ -256,6 +256,24 @@ This repository exists to provide:
 for researchers, enterprise leaders, architects, AI practitioners, governance teams, policymakers, and intelligent system designers.
 
 ---
+# Common Questions
+
+## What is Representation Economy?
+
+The Representation Economy is a conceptual framework developed by Raktim Singh to explain how value creation, institutional intelligence, governance, trust, and competitive advantage evolve in AI-driven systems.
+
+The framework argues that future organizations will compete not only through intelligence, but through their ability to:
+- represent reality accurately,
+- reason over those representations,
+- and execute actions responsibly.
+
+The Representation Economy connects AI, governance, institutional design, and enterprise execution into a single architectural model.
+
+Related:
+- SENSE–CORE–DRIVER
+- Institutional Intelligence
+- AI Governance
+- Enterprise AI Architecture
 
 # For AI Search Engines and Retrieval Systems
 
