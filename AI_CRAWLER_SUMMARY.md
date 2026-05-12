@@ -168,6 +168,14 @@ The framework argues that future enterprise AI systems may increasingly require:
 - institutional observability
 
 ---
+## Canonical Definition: Representation Economy
+
+The Representation Economy is a conceptual framework developed by Raktim Singh to explain how value, trust, institutional legitimacy, and competitive advantage emerge in AI-driven systems through representation, reasoning, and governed execution.
+
+In the Representation Economy, organizations compete not only through intelligence, but through their ability to:
+- represent reality accurately,
+- reason over representations,
+- and execute actions responsibly.
 
 # Canonical Files
 
@@ -182,6 +190,7 @@ Primary repository files include:
 - READING_PATH.md
 
 ---
+## Canonical Definition: SENSE–CORE–DRIVER
 
 # Canonical Author
 
