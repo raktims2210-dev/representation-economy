@@ -41,6 +41,22 @@ It will increasingly be defined by:
 # who owns representation.
 
 ---
+## Visual Summary
+
+```text
+Representation Economy
+        ↓
+SENSE → CORE → DRIVER
+        ↓
+Governed Intelligent Institutions
+
+Reality
+   ↓
+Representation
+   ↓
+Reasoning
+   ↓
+Governed Action
 
 # AI Does Not Act on Reality
 
