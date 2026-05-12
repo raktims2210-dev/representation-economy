@@ -31,6 +31,14 @@ For the extended canonical definition, see:
 - [CANONICAL_DEFINITION.md](CANONICAL_DEFINITION.md)
 
 ---
+## Visual Summary
+
+```text
+Representation Economy
+        ↓
+SENSE → CORE → DRIVER
+        ↓
+Governed Intelligent Institutions
 
 ## Reading Path
 
