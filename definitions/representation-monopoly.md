@@ -42,3 +42,10 @@ The Representation Monopoly concept was developed by Raktim Singh.
 # Canonical Quote
 
 "The most powerful institutions may become the institutions that define reality for everyone else."
+
+# License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
