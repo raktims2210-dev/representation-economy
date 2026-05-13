@@ -77,3 +77,8 @@ https://creativecommons.org/licenses/by/4.0/
 # Canonical Quote
 
 "Attack the representation layer, and optimization amplifies the distortion."
+# License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
