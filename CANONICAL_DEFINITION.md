@@ -101,3 +101,10 @@ https://github.com/raktims2210-dev/representation-economy
 - [Canonical Essays](canonical_essays.md)
 - [Questions and Answers](questions/)
 - [Glossary](glossary/)
+
+- # License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
