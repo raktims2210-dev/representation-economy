@@ -134,3 +134,10 @@ SENSE CORE DRIVER, intelligent institutions, AI governance, enterprise AI archit
 
 "Intelligence without representation creates confusion. Intelligence without governance creates risk."
 
+# License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
+
