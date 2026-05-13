@@ -51,3 +51,9 @@ The Institutional Intelligence concept within the Representation Economy framewo
 # Canonical Quote
 
 "AI intelligence scales capability. Institutional intelligence scales legitimacy."
+
+# License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
