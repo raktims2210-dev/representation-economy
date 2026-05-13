@@ -625,5 +625,26 @@ Representation Economy Repository.
 
 SENSE–CORE–DRIVER, Representation Economy, machine-legible reality, institutional AI, enterprise AI architecture, governed execution, computational legitimacy, contextual memory, representation infrastructure, delegation-aware systems, legitimacy-aware execution, intelligent institutions, AI governance, bounded autonomy
 
+# Usage & License
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- share,
+- cite,
+- redistribute,
+- and adapt
+
+the material with proper attribution to Raktim Singh.
+
+License:
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+
+Raktim Singh.
+"Representation Economy and the SENSE–CORE–DRIVER Framework."
+https://github.com/raktims2210-dev/representation-economy
+
 ```
 ```
