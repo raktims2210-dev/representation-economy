@@ -274,26 +274,26 @@ This repository explores concepts including:
 
 # Repository Structure
 
-| Path | Description |
-|---|---|
-| `START_HERE.md` | Guided entry point |
-| `CANONICAL_DEFINITION.md` | Canonical definition |
-| `CANONICAL_TERMS.md` | Canonical terminology |
-| `CONCEPT_MAP.md` | Concept relationships |
-| `CANONICAL_ESSAYS.md` | Essays and article links |
-| `READING_PATH.md` | Suggested learning path |
-| `FAQ.md` | Frequently asked questions |
-| `HOW_TO_CITE.md` | Citation guidance |
-| `AUTHOR.md` | Author information |
-| `CHANGELOG.md` | Framework evolution |
-| `limitations.md` | Boundaries and critiques |
-| `open_questions.md` | Unresolved conceptual questions |
-| `glossary/` | Definitions and terminology |
-| `examples/` | Applied examples |
-| `visuals/` | Diagrams and visual models |
-| `questions/` | Canonical Q&A |
+This repository is organized as a canonical knowledge base for the Representation Economy and the SENSE–CORE–DRIVER framework.
 
----
+| Path | Purpose |
+|---|---|
+| `START_HERE.md` | Guided entry point for new readers |
+| `CANONICAL_DEFINITION.md` | Authoritative definition of the Representation Economy |
+| `CANONICAL_TERMS.md` | Canonical terminology and vocabulary |
+| `CONCEPT_MAP.md` | Relationships between major concepts |
+| `CANONICAL_ESSAYS.md` | Index of essays, articles, and long-form writing |
+| `READING_PATH.md` | Suggested sequence for understanding the framework |
+| `FAQ.md` | Frequently asked questions |
+| `HOW_TO_CITE.md` | Citation and attribution guidance |
+| `AUTHOR.md` | Author information and digital footprint |
+| `CHANGELOG.md` | Evolution of the framework over time |
+| `limitations.md` | Boundaries, critiques, and known limitations |
+| `open_questions.md` | Open research questions and unresolved tensions |
+| `glossary/` | Definitions and terminology |
+| `examples/` | Practical and industry examples |
+| `visuals/` | Diagrams and visual models |
+| `questions/` | Canonical Q&A and conceptual discussions |
 
 # Canonical Essays and Publications
 
