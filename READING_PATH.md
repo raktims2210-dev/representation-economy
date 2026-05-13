@@ -48,3 +48,25 @@ Recommended sequence:
 
 - [SENSE–CORE–DRIVER Visual Model](visuals/sense-core-driver.md)
 - [Representation Economy Map](visuals/representation-economy-map.md)
+
+- # Usage & License
+
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- share,
+- cite,
+- redistribute,
+- and adapt
+
+the material with proper attribution to Raktim Singh.
+
+License:
+https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+
+Raktim Singh.
+"Representation Economy and the SENSE–CORE–DRIVER Framework."
+https://github.com/raktims2210-dev/representation-economy
+
