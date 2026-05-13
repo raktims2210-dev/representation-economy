@@ -50,3 +50,10 @@ The Representation Layer concept within the Representation Economy framework was
 # Canonical Quote
 
 "The most powerful AI systems are limited by the quality of the realities they represent."
+
+# License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+https://creativecommons.org/licenses/by/4.0/
+
