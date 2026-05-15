@@ -1,4 +1,16 @@
 ````md
+The AI era is not just changing software.
+
+It is changing how institutions represent reality,
+make decisions,
+delegate authority,
+and execute action.
+
+This repository introduces:
+- Representation Economy
+- the SENSE–CORE–DRIVER framework
+- and the emerging architecture of governable AI systems.
+
 # Representation Economy
 
 ## A Canonical Knowledge Repository on Representation Economy and the SENSE–CORE–DRIVER Framework
