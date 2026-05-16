@@ -1,5 +1,12 @@
 # Representation Economy
 
+# Representation Economy
+
+Short introductory paragraph...
+
+![Representation Economy](visuals/representation-economy.png)
+The Representation Economy describes an emerging institutional and economic layer in which value increasingly depends on how accurately organizations can represent reality, reason over changing conditions, and govern intelligent execution systems.
+
 ## A Canonical Knowledge Repository on the Representation Economy and the SENSE–CORE–DRIVER Framework
 
 The AI era is not merely changing software.
