@@ -229,6 +229,21 @@ This repository explores topics including:
 | `open_questions.md` | Open research directions |
 
 ---
+## The Enterprise AI Starting Point Problem
+
+Many enterprises are struggling to scale AI not because models are weak, but because institutional reality is fragmented, governance is unclear, and representation readiness is low.
+
+Organizations often do not know:
+- which workflows are ready for AI
+- which systems contain trusted representation
+- where deterministic automation should end
+- where AI reasoning should begin
+- where human judgment must remain
+- and how accountability should be preserved.
+
+This creates the Enterprise AI Starting Point Problem.
+
+![The Enterprise AI Starting Point Problem](enterprise-ai-starting-point-problem.png)
 
 ## Canonical Visual Architecture
 
