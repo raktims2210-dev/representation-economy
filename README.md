@@ -101,6 +101,38 @@ It includes:
 
 SENSE determines how accurately institutions can represent the world.
 
+AI does not act directly on reality.
+
+AI acts on representations of reality.
+
+
+## Representation Fragmentation
+
+Large enterprises often represent the same entity differently across systems.
+
+Customer records, operational states, identities, permissions, risks, and relationships may exist in fragmented, inconsistent, or conflicting forms across:
+- CRM systems
+- ERP systems
+- billing platforms
+- support tools
+- spreadsheets
+- emails
+- legacy applications
+- and disconnected workflows.
+
+This creates institutional ambiguity.
+
+When AI systems reason over fragmented representation, they may:
+- generate inconsistent recommendations
+- automate incorrect actions
+- amplify operational errors
+- increase governance risk
+- and erode trust.
+
+Representation fragmentation is therefore one of the foundational challenges in enterprise AI architecture.
+
+![Representation Fragmentation in Enterprises](representation-fragmentation.png)
+
 ---
 
 ### CORE — The Reasoning Layer
