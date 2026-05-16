@@ -63,11 +63,14 @@ The **Representation Economy** is an emerging economic and institutional layer i
 
 In this economy, advantage shifts from owning data alone to owning trusted, dynamic, and governable representations of reality.
 
----
+# Representation Economy
+The SENSE–CORE–DRIVER framework explains how enterprises transform reality into governed institutional action through machine-legible representation, reasoning systems, and accountable execution.
+
+
+
+![SENSE–CORE–DRIVER Framework](visuals/sense-core-driver-overview.png)
 
 # Representation Economy
-
-!(visuals/sense-core-driver-overview.png)
 
 ## The SENSE–CORE–DRIVER Framework
 
