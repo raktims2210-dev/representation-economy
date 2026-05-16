@@ -65,6 +65,10 @@ In this economy, advantage shifts from owning data alone to owning trusted, dyna
 
 ---
 
+# Representation Economy
+
+![SENSE–CORE–DRIVER Framework](visuals/sense-core-driver-overview.png)
+
 ## The SENSE–CORE–DRIVER Framework
 
 The SENSE–CORE–DRIVER framework explains how AI-enabled institutions convert reality into action.
