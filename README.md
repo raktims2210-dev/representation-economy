@@ -218,6 +218,11 @@ This repository explores topics including:
 - AI Trust & Legitimacy
 
 ---
+## SENSE–CORE–DRIVER Architecture
+![SENSE–CORE–DRIVER Architecture](./sense-core-driver.png)
+
+
+The SENSE–CORE–DRIVER architecture explains how reality becomes machine-legible, how AI reasons over that representation, and how governed execution creates institutional outcomes.
 
 ## Repository Structure
 
