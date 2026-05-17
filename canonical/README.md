@@ -5,9 +5,10 @@ This folder contains the official visual architecture of the Representation Econ
 These diagrams are the source-of-truth visuals for explaining how reality becomes machine-legible, how AI reasons over that representation, and how governed execution happens through institutional legitimacy.
 ## Canonical Architecture Diagram
 
-![SENSE–CORE–DRIVER Architecture](sense-core-driver-master.png)
+![SENSE–CORE–DRIVER Architecture](./sense-core-driver-master.png)
 
 The SENSE–CORE–DRIVER architecture explains how reality becomes machine-legible, how AI reasons over that representation, and how governed execution creates institutional outcomes.
+
 
 
 
