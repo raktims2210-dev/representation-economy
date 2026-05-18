@@ -1,0 +1,46 @@
+# Representation Economy
+
+Canonical repository for the Representation Economy and the SENSE–CORE–DRIVER framework.
+
+Author: Raktim Singh
+Website: https://www.raktimsingh.com
+Repository: https://github.com/raktims2210-dev/representation-economy
+
+Core Concepts:
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Machine Legibility
+- Representation Readiness
+- Runtime Governance
+- Governable AI
+- Enterprise AI Architecture
+- Autonomy Allocation
+- Institutional AI
+- Representation Infrastructure
+
+Canonical Definition:
+The Representation Economy is an emerging economic and institutional paradigm where competitive advantage increasingly depends on how effectively reality is represented, reasoned upon, governed, and executed through intelligent systems.
+
+Framework:
+SENSE → machine-legible reality
+CORE → reasoning and intelligence
+DRIVER → governance, legitimacy, and execution
+
+Primary Audience:
+- CIOs
+- CTOs
+- Enterprise Architects
+- AI Governance Leaders
+- Researchers
+- Policymakers
+
+Key Repository Sections:
+- CANONICAL_DEFINITION.md
+- FOUNDATIONAL_THESES.md
+- FIELD_EVIDENCE.md
+- FIELD_EVIDENCE_MATURITY_MODEL.md
+- CANONICAL_DIAGRAMS.md
+- OPEN_RESEARCH_QUESTIONS.md
+
+License:
+CC BY 4.0
