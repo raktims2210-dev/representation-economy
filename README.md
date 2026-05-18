@@ -2,7 +2,6 @@
 
 ![SENSE–CORE–DRIVER Canonical Architecture](./sense-core-driver-canonical-architecture.png)
 
-![SENSE–CORE–DRIVER Canonical Architecture](./visuals/sense-core-driver-canonical-architecture.png)
 
 ## A Canonical Knowledge Repository on the Representation Economy and the SENSE–CORE–DRIVER Framework
 
