@@ -12,9 +12,9 @@ These diagrams are intended to serve as canonical visual references for understa
 - how institutional legitimacy is maintained,
 - and why enterprise AI systems succeed or fail.
 
-The goal of these diagrams is not merely visualization.
+The purpose of these diagrams is not merely visualization.
 
-They are intended to help researchers, architects, CIOs, CTOs, policymakers, AI governance teams, and enterprise transformation leaders understand the deeper structural shifts introduced by AI systems.
+They are intended to help researchers, enterprise architects, CIOs, CTOs, AI governance teams, policymakers, and transformation leaders understand the deeper architectural shifts introduced by AI systems.
 
 ---
 
@@ -34,35 +34,38 @@ They are intended to help researchers, architects, CIOs, CTOs, policymakers, AI 
 
 ---
 
-# Included Diagrams
+# Embedded Diagrams
 
-## 1. SENSE–CORE–DRIVER Canonical Architecture
+## SENSE–CORE–DRIVER Canonical Architecture
 
-Core architectural model showing how:
+![SENSE–CORE–DRIVER Canonical Architecture](./sense-core-driver-canonical-architecture.png)
 
-- SENSE converts reality into machine-legible representation,
-- CORE performs reasoning and optimization,
-- DRIVER governs legitimacy, authority, execution, and recourse.
+The foundational architecture showing how reality becomes machine-legible through SENSE, reasoned through CORE, and operationalized through DRIVER.
 
-This diagram represents the foundational architecture of the Representation Economy framework.
+This diagram explains the core architectural structure of the Representation Economy.
 
 ---
 
-## 2. Representation Flow Diagram
+## Representation Flow Diagram
 
-Explains how signals move through:
+![Representation Flow Diagram](./representation-flow-diagram.png)
+
+Explains how signals move across:
 
 REALITY → SENSE → CORE → DRIVER → INSTITUTIONAL OUTCOME
 
-This diagram illustrates how modern AI systems increasingly operate as representation-processing systems rather than traditional software systems.
+This diagram illustrates how modern AI systems increasingly function as representation-processing systems rather than traditional software systems.
 
 ---
 
-## 3. Runtime Governance Layer
+## Runtime Governance Layer
+
+![Runtime Governance Layer](./runtime-governance-layer.png)
 
 Visual explanation of governance during AI execution.
 
 Covers:
+
 - policy enforcement,
 - bounded autonomy,
 - observability,
@@ -72,11 +75,13 @@ Covers:
 - execution controls,
 - and runtime supervision.
 
-This diagram explains why governance cannot remain external to AI execution systems.
+This diagram explains why governance can no longer remain external to AI execution systems.
 
 ---
 
-## 4. DRIVER Legitimacy Flow
+## DRIVER Legitimacy Flow
+
+![DRIVER Legitimacy Flow](./driver-legitimacy-flow.png)
 
 Explains the DRIVER layer:
 
@@ -87,13 +92,15 @@ Explains the DRIVER layer:
 - Execution
 - Recourse
 
-This diagram focuses on institutional legitimacy and governed action.
+This diagram focuses on institutional legitimacy and governed execution.
 
 It explains why execution legitimacy becomes increasingly important as AI systems gain operational autonomy.
 
 ---
 
-## 5. Enterprise AI Starting Point Problem
+## Enterprise AI Starting Point Problem
+
+![Enterprise AI Starting Point Problem](./enterprise-ai-starting-point-problem.png)
 
 Explains one of the biggest challenges in enterprise AI adoption:
 
@@ -103,7 +110,9 @@ This diagram visualizes the structural starting-point confusion inside enterpris
 
 ---
 
-## 6. AI Failure Propagation
+## AI Failure Propagation
+
+![AI Failure Propagation](./ai-failure-propagation.png)
 
 Shows how failures propagate across:
 
@@ -117,7 +126,9 @@ This diagram explains why many AI failures are not isolated technical failures b
 
 ---
 
-## 7. Representation Fragmentation
+## Representation Fragmentation
+
+![Representation Fragmentation](./representation-fragmentation.png)
 
 Explains how organizations suffer from fragmented representations across:
 
@@ -131,7 +142,9 @@ This diagram illustrates why representation coherence may become one of the defi
 
 ---
 
-## 8. Representation Moats
+## Representation Moats
+
+![Representation Moats](./representation-moats.png)
 
 Illustrates how future competitive advantage may emerge from:
 
@@ -145,7 +158,9 @@ This diagram explains why representation infrastructure may become more defensib
 
 ---
 
-## 9. Representation Translation Layer
+## Representation Translation Layer
+
+![Representation Translation Layer](./representation-translation-layer.png)
 
 Explains how future systems may require translation across:
 
@@ -167,8 +182,8 @@ Most enterprise AI discussions remain focused on:
 
 - models,
 - prompts,
-- benchmarks,
 - copilots,
+- benchmarks,
 - and automation.
 
 But the deeper transformation introduced by AI is architectural.
@@ -179,7 +194,8 @@ AI systems increasingly depend on:
 - contextual understanding,
 - governed execution,
 - institutional legitimacy,
-- and operational interoperability.
+- operational interoperability,
+- and runtime governance.
 
 These diagrams attempt to explain those deeper structural transitions.
 
@@ -193,8 +209,8 @@ These diagrams are intended for:
 - CTOs
 - Enterprise Architects
 - AI Governance Teams
-- Policymakers
 - Researchers
+- Policymakers
 - Product Leaders
 - AI Infrastructure Teams
 - Transformation Leaders
@@ -207,6 +223,27 @@ These diagrams are intended for:
 Main Repository:
 
 https://github.com/raktims2210-dev/representation-economy
+
+---
+
+# Canonical Concepts
+
+This repository introduces and develops the following concepts:
+
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Machine-Legible Reality
+- Governable AI Systems
+- Runtime Governance
+- Representation Fragmentation
+- Representation Moats
+- Representation Translation Layer
+- Enterprise AI Starting Point Problem
+- Bounded Autonomy
+- Institutional AI Architecture
+- Representation Infrastructure
+- Representation Coherence
+- Execution Legitimacy
 
 ---
 
