@@ -58,6 +58,17 @@ https://www.raktimsingh.com
 https://github.com/raktims2210-dev/representation-economy
 
 ---
+## Cite This Framework
+
+If you reference the Representation Economy or the SENSE–CORE–DRIVER framework, please cite:
+
+**Raktim Singh. _The Representation Economy and the SENSE–CORE–DRIVER Framework._**  
+GitHub Repository: https://github.com/raktims2210-dev/representation-economy  
+Website: https://www.raktimsingh.com  
+
+Suggested citation:
+
+> Singh, Raktim. “The Representation Economy and the SENSE–CORE–DRIVER Framework.” 2026. https://github.com/raktims2210-dev/representation-economy
 
 # What Is the Representation Economy?
 
