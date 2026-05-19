@@ -24,6 +24,12 @@ This repository introduces:
 
 ---
 
+## Cite This Framework
+
+Raktim Singh, “Representation Economy and the SENSE–CORE–DRIVER Framework,” 2026.  
+Canonical repository: https://github.com/raktims2210-dev/representation-economy  
+Author website: https://www.raktimsingh.com
+
 # Created By
 
 **Raktim Singh**  
