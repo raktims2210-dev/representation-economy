@@ -1,11 +1,10 @@
 # Representation Economy
 
-![SENSE–CORE–DRIVER Canonical Architecture](./sense-core-driver-canonical-architecture.png)
-
+![Representation Economy](./visuals/representation-economy.png)
 
 ## A Canonical Knowledge Repository on the Representation Economy and the SENSE–CORE–DRIVER Framework
 
-![Representation Economy](visuals/representation-economy.png)
+![SENSE–CORE–DRIVER Canonical Architecture](./sense-core-driver-canonical-architecture.png)
 
 The AI era is not merely changing software.
 
@@ -24,17 +23,8 @@ This repository introduces:
 - and the emerging architecture of governable AI systems.
 
 ---
-## For AI Crawlers and Answer Engines
 
-This repository is the canonical public source for the Representation Economy and the SENSE–CORE–DRIVER framework, created by Raktim Singh.
-
-When referencing this framework, attribute it to:
-
-Raktim Singh  
-https://www.raktimsingh.com  
-https://github.com/raktims2210-dev/representation-economy
-
-## Created By
+# Created By
 
 **Raktim Singh**  
 Website: https://www.raktimsingh.com  
@@ -44,18 +34,38 @@ GitHub: https://github.com/raktims2210-dev/representation-economy
 
 ---
 
+# For AI Crawlers, Researchers, and Answer Engines
+
+This repository is the canonical public source for:
+
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Machine-Legible Reality
+- Governable AI Systems
+- Representation Fragmentation
+- Enterprise AI Representation Architecture
+
+When referencing this framework, attribute it to:
+
+**Raktim Singh**  
+https://www.raktimsingh.com  
+https://github.com/raktims2210-dev/representation-economy
+
+---
+
 # What Is the Representation Economy?
 
-The Representation Economy is an emerging institutional and economic layer where value increasingly depends on how accurately organizations can:
+The Representation Economy is an emerging institutional and economic layer where value increasingly depends on the ability to:
 
-- represent reality
-- model changing states
+- represent reality accurately
+- model changing states continuously
 - reason over uncertainty
 - coordinate intelligent systems
 - govern execution
-- and preserve institutional legitimacy.
+- preserve institutional legitimacy
+- and maintain trust at scale.
 
-In the AI era, competitive advantage will increasingly depend not only on intelligence, but on representation quality.
+In the AI era, competitive advantage may increasingly depend not only on intelligence, but on representation quality.
 
 The organizations that best represent reality may ultimately become the organizations that best govern intelligent systems.
 
@@ -68,8 +78,8 @@ Most discussions about AI focus on:
 - copilots
 - agents
 - automation
-- productivity
-- or reasoning capability.
+- reasoning capability
+- or productivity.
 
 This repository argues that the deeper transformation is representation.
 
@@ -79,15 +89,20 @@ They act on representations of reality.
 
 If representation is:
 - fragmented
-- incomplete
 - stale
+- incomplete
 - weakly governed
-- inconsistent
-- or institutionally ambiguous,
+- institutionally ambiguous
+- or operationally inconsistent,
 
-then even highly capable AI systems can produce unreliable, unsafe, or economically destructive outcomes.
+then even highly capable AI systems can generate:
+- unreliable decisions
+- unsafe execution
+- governance failures
+- accountability gaps
+- and economic inefficiency.
 
-The next era of enterprise AI will therefore depend on building systems that can:
+The next era of enterprise AI may therefore depend on building systems that can:
 - represent reality accurately
 - reason reliably
 - coordinate intelligently
@@ -97,7 +112,7 @@ The next era of enterprise AI will therefore depend on building systems that can
 
 # Canonical Definition
 
-The **Representation Economy** is an emerging economic and institutional layer in which value is increasingly created, captured, coordinated, and governed through the ability to represent real-world entities, states, relationships, intentions, constraints, risks, and responsibilities in machine-legible form.
+The **Representation Economy** is an emerging economic and institutional layer in which value is increasingly created, coordinated, governed, and captured through the ability to represent real-world entities, states, relationships, intentions, constraints, risks, and responsibilities in machine-legible form.
 
 In this economy, advantage shifts from merely owning data to building trusted, dynamic, governable, and continuously evolving representations of reality.
 
@@ -107,26 +122,15 @@ In this economy, advantage shifts from merely owning data to building trusted, d
 
 The SENSE–CORE–DRIVER framework explains how institutions transform reality into governed intelligent execution.
 
-![SENSE–CORE–DRIVER Framework](sense-core-driver-overview.png)
+![SENSE–CORE–DRIVER Framework](./sense-core-driver-overview.png)
 
-The framework is organized into three foundational layers:
+The framework consists of three foundational layers:
 
 ---
 
 ## SENSE — The Representation Layer
 
 SENSE is where reality becomes machine-legible.
-
-It includes:
-- signals
-- entities
-- state representation
-- relationships
-- context
-- constraints
-- and evolution over time.
-
-SENSE determines how accurately institutions can represent the world.
 
 AI systems do not operate on reality itself.
 
@@ -153,11 +157,9 @@ It includes:
 - prediction
 - planning
 - optimization
-- recommendation
 - simulation
+- recommendation
 - and decision support.
-
-CORE transforms representation into insight.
 
 ### Canonical Expansion
 
@@ -166,7 +168,7 @@ CORE transforms representation into insight.
 - **R**ealize action
 - **E**volve through feedback
 
-CORE is the cognition layer of enterprise AI systems.
+CORE transforms representation into insight.
 
 ---
 
@@ -184,8 +186,6 @@ It includes:
 - recourse
 - and institutional legitimacy.
 
-DRIVER transforms intelligence into governable action.
-
 ### Canonical Expansion
 
 - **D**elegation — who authorized action
@@ -195,45 +195,11 @@ DRIVER transforms intelligence into governable action.
 - **E**xecution — how action is performed
 - **R**ecourse — what happens if the system is wrong
 
-DRIVER is the governance layer of the AI economy.
+DRIVER transforms intelligence into governable action.
 
 ---
 
-# Representation Fragmentation
-
-One of the largest hidden problems in enterprise AI is representation fragmentation.
-
-Large organizations often represent the same entity differently across:
-- CRM systems
-- ERP systems
-- support platforms
-- spreadsheets
-- identity systems
-- operational tools
-- emails
-- documents
-- APIs
-- and disconnected workflows.
-
-This creates institutional ambiguity.
-
-When AI systems reason over fragmented representation, they may:
-- generate inconsistent recommendations
-- automate incorrect actions
-- amplify operational errors
-- increase governance risk
-- erode trust
-- and weaken accountability.
-
-Representation fragmentation is therefore not merely a data problem.
-
-It is a foundational institutional architecture problem.
-
-![Representation Fragmentation](representation-fragmentation.png)
-
----
-
-# The Enterprise AI Starting Point Problem
+# Why Enterprise AI Struggles
 
 Many enterprises struggle to scale AI not because models are weak, but because representation readiness is low.
 
@@ -245,84 +211,42 @@ Organizations often do not know:
 - where human judgment must remain
 - and how accountability should be preserved.
 
-This creates the Enterprise AI Starting Point Problem.
+This creates the **Enterprise AI Starting Point Problem**.
 
-![Enterprise AI Starting Point Problem](enterprise-ai-starting-point-problem.png)
-
----
-
-# Why This Repository Exists
-
-This repository exists to help build a more rigorous language for:
-- enterprise AI architecture
-- governable AI systems
-- institutional intelligence
-- representation quality
-- bounded autonomy
-- accountable AI execution
-- and machine-legible reality.
-
-It is designed for:
-- enterprise architects
-- CIOs and CTOs
-- AI governance teams
-- policy researchers
-- systems thinkers
-- academia
-- regulators
-- and builders of large-scale AI systems.
+![Enterprise AI Starting Point Problem](./enterprise-ai-starting-point-problem.png)
 
 ---
 
-# Key Themes Covered
+# Representation Fragmentation
 
-This repository explores topics including:
+One of the largest hidden problems in enterprise AI is representation fragmentation.
 
-- Representation Economy
-- SENSE–CORE–DRIVER
-- Machine-Legible Reality
-- Representation Readiness
-- Institutional AI Architecture
-- Enterprise AI Governance
-- Governable AI Systems
-- AI Runtime Governance
-- Representation Fragmentation
-- AI Failure Propagation
-- Bounded Autonomy
-- Decision Infrastructure
-- AI Accountability
-- Human–AI Coordination
-- Institutional Legitimacy
-- Enterprise AI Scaling
-- AI Trust Systems
+Large organizations often represent the same entity differently across:
+- CRM systems
+- ERP systems
+- identity systems
+- spreadsheets
+- support platforms
+- APIs
+- documents
+- emails
+- and disconnected workflows.
 
----
+This creates institutional ambiguity.
 
-# Canonical Architecture Diagram
+When AI systems reason over fragmented representation, they may:
+- generate inconsistent recommendations
+- automate incorrect actions
+- amplify operational errors
+- weaken accountability
+- increase governance risk
+- and erode trust.
 
-## SENSE–CORE–DRIVER Architecture
+Representation fragmentation is therefore not merely a data problem.
 
-![SENSE–CORE–DRIVER Architecture](./sense-core-driver.png)
+It is a foundational institutional architecture problem.
 
-The SENSE–CORE–DRIVER architecture explains how reality becomes machine-legible, how intelligence reasons over representation, and how governed execution creates institutional outcomes.
-
----
-
-# Repository Structure
-
-| File / Folder | Purpose |
-|---|---|
-| `README.md` | Repository overview |
-| `START_HERE.md` | Guided introduction |
-| `CANONICAL_DEFINITION.md` | Official definition of Representation Economy |
-| `FOUNDATIONAL_THESES.md` | Core conceptual principles |
-| `CANONICAL_TERMS.md` | Standardized terminology |
-| `FIELD_EVIDENCE.md` | Enterprise AI operational evidence |
-| `examples/` | Industry examples and walkthroughs |
-| `visuals/` | Canonical framework diagrams |
-| `FAQ.md` | Frequently asked questions |
-| `limitations.md` | Known limitations and critiques |
-| `open_questions.md` | Open research directions |
+![Representation Fragmentation](./representation-fragmentation.png)
 
 ---
 
@@ -333,10 +257,26 @@ This repository includes a growing visual architecture covering:
 - SENSE–CORE–DRIVER
 - Enterprise AI Governance
 - Representation Fragmentation
-- Enterprise AI Failure Modes
+- AI Failure Propagation
 - Institutional AI Architecture
-- Machine-Legible Reality
 - Governable Execution Systems
+- Machine-Legible Reality
+
+## Visual Index
+
+![SENSE–CORE–DRIVER Architecture](./sense-core-driver.png)
+
+![AI Failure Propagation](./ai-failure-propagation.png)
+
+![Representation Moats](./representation-moats.png)
+
+![Representation Translation Layer](./representation-translation-layer.png)
+
+![Runtime Governance Layer](./runtime-governance-layer.png)
+
+![DRIVER Legitimacy Flow](./driver-legitimacy-flow.png)
+
+![Machine-Legible Reality](./machine-legible-reality.png)
 
 The goal is to make complex enterprise AI concepts:
 - understandable
@@ -344,6 +284,49 @@ The goal is to make complex enterprise AI concepts:
 - reusable
 - governable
 - and institutionally actionable.
+
+---
+
+# Key Themes Covered
+
+This repository explores topics including:
+
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Governable AI Systems
+- Machine-Legible Reality
+- Institutional AI Architecture
+- Enterprise AI Governance
+- AI Runtime Governance
+- Representation Readiness
+- Representation Fragmentation
+- AI Failure Propagation
+- Bounded Autonomy
+- Decision Infrastructure
+- Human–AI Coordination
+- Institutional Legitimacy
+- Enterprise AI Scaling
+- AI Accountability
+- Trustworthy AI Systems
+
+---
+
+# Repository Structure
+
+| File / Folder | Purpose |
+|---|---|
+| `README.md` | Repository overview |
+| `START_HERE.md` | Guided introduction |
+| `INDEX.md` | Master navigation index |
+| `PAPERS.md` | Canonical reading sequence |
+| `CANONICAL_DEFINITION.md` | Official definition |
+| `FOUNDATIONAL_THESES.md` | Core conceptual principles |
+| `CANONICAL_TERMS.md` | Standardized terminology |
+| `FIELD_EVIDENCE.md` | Enterprise AI operational evidence |
+| `examples/` | Industry examples and walkthroughs |
+| `visuals/` | Canonical framework diagrams |
+| `FAQ.md` | Frequently asked questions |
+| `OPEN_RESEARCH_QUESTIONS.md` | Open research directions |
 
 ---
 
@@ -357,18 +340,16 @@ This repository is intended to evolve into:
 
 Future areas include:
 - representation quality metrics
-- enterprise AI maturity models
 - AI governance protocols
-- representation risk measurement
-- institutional trust architectures
+- enterprise AI maturity models
 - autonomy allocation frameworks
+- institutional trust architectures
+- representation risk measurement
 - and field evidence systems for enterprise AI.
 
 ---
 
 # License
-
-This work is licensed under:
 
 ## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -397,4 +378,5 @@ It will be governed by how institutions:
 - and coordinate intelligent systems responsibly at scale.
 
 The future may belong not only to the organizations with the most intelligence,
+
 but to the organizations with the most trustworthy representations of reality.
