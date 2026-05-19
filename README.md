@@ -397,3 +397,25 @@ It will be governed by how institutions:
 The future may belong not only to the organizations with the most intelligence,
 
 but to the organizations with the most trustworthy representations of reality.
+
+## Website
+
+Official Website  
+https://www.raktimsingh.com
+
+## Repository
+
+Representation Economy Repository  
+https://github.com/raktims2210-dev/representation-economy
+
+## About the Author
+
+Raktim Singh writes about enterprise AI, AI governance, institutional trust, and the emerging Representation Economy.
+
+He is the creator of the SENSE–CORE–DRIVER framework.
+
+## License
+
+Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
+
