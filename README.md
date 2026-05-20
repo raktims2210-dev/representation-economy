@@ -417,7 +417,12 @@ https://x.com/dadraktim
 https://substack.com/@raktimsingh
 
 ---
-DOI: https://doi.org/10.5281/zenodo.20315480
+DOI: 10.5281/zenodo.20315480
+
+https://doi.org/10.5281/zenodo.20315480
+
+ORCID iD: 0009-0002-6207-602X
+
 
 # Important Note
 
