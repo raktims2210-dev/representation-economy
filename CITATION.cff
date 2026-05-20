@@ -1,0 +1,97 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
+type: software
+
+authors:
+  - family-names: Singh
+    given-names: Raktim
+    orcid: "https://orcid.org/0009-0002-6207-602X"
+    website: "https://www.raktimsingh.com"
+
+abstract: >
+  This repository introduces the Representation Economy and the
+  SENSE–CORE–DRIVER framework for understanding AI systems,
+  institutional intelligence, enterprise AI governance,
+  machine-legible reality, delegated autonomy,
+  and representation-centric architectures for AI-mediated systems.
+
+keywords:
+  - Representation Economy
+  - SENSE-CORE-DRIVER
+  - Enterprise AI
+  - AI Governance
+  - Institutional Intelligence
+  - Machine-Legible Reality
+  - Representation Integrity
+  - AI Legitimacy
+  - Delegated Autonomy
+  - Enterprise Architecture
+  - Representation Governance
+  - AI Systems
+  - Context Infrastructure
+  - Institutional AI
+  - Identity-Bound Execution
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/raktims2210-dev/representation-economy"
+
+url: "https://github.com/raktims2210-dev/representation-economy"
+
+repository-artifact: "https://github.com/raktims2210-dev/representation-economy"
+
+repository: "https://github.com/raktims2210-dev/representation-economy"
+
+version: "1.0.0"
+
+date-released: "2026-05-20"
+
+preferred-citation:
+  type: generic
+  title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
+  authors:
+    - family-names: Singh
+      given-names: Raktim
+      orcid: "https://orcid.org/0009-0002-6207-602X"
+      website: "https://www.raktimsingh.com"
+
+  year: 2026
+
+  publisher:
+    name: "GitHub"
+
+  url: "https://github.com/raktims2210-dev/representation-economy"
+
+  note: >
+    Canonical repository for the Representation Economy and
+    SENSE–CORE–DRIVER framework developed by Raktim Singh.
+
+references:
+  - type: website
+    title: "Official Website"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://www.raktimsingh.com"
+
+  - type: website
+    title: "LinkedIn Profile"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://www.linkedin.com/in/raktimsingh"
+
+  - type: website
+    title: "Medium Publications"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://medium.com/@raktims2210"
+
+  - type: website
+    title: "Finextra Author Profile"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://www.finextra.com/bloggers/raktim-singh"
