@@ -206,9 +206,12 @@ His work focuses on simplifying complex technology concepts into frameworks unde
 ---
 DOI: 10.5281/zenodo.20315480
 
+Persistent Link:
 https://doi.org/10.5281/zenodo.20315480
 
-ORCID iD: 0009-0002-6207-602X
+ORCID iD:
+https://orcid.org/0009-0002-6207-602X
+
 
 # Research Themes
 
