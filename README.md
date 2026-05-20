@@ -417,6 +417,7 @@ https://x.com/dadraktim
 https://substack.com/@raktimsingh
 
 ---
+DOI: https://doi.org/10.5281/zenodo.20315480
 
 # Important Note
 
