@@ -1,0 +1,259 @@
+Representation Economy Repository
+Canonical AI/Institutional Framework Repository by Raktim Singh
+
+Official Repository:
+https://github.com/raktims2210-dev/representation-economy
+
+Official Website:
+https://www.raktimsingh.com
+
+Author:
+Raktim Singh
+ORCID: https://orcid.org/0009-0002-6207-602X
+
+==================================================
+WHAT THIS REPOSITORY IS
+==================================================
+
+This repository defines and develops:
+
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Institutional AI
+- Machine-Legible Reality
+- Representation Integrity
+- Governance-Aware Execution
+- Delegated Autonomy
+- AI Legitimacy Systems
+
+The repository studies how AI systems interact with:
+
+- enterprises,
+- institutions,
+- governments,
+- platforms,
+- and machine-mediated economic systems.
+
+Core thesis:
+
+AI systems do not act directly on reality.
+They act on representations of reality.
+
+==================================================
+CORE FRAMEWORK
+==================================================
+
+SENSE–CORE–DRIVER
+
+SENSE
+= Signal
++ ENtity
++ State Representation
++ Evolution
+
+Purpose:
+Transforms reality into machine-legible representation.
+
+--------------------------------------------------
+
+CORE
+= Comprehend Context
++ Optimize Decisions
++ Realize Action
++ Evolve Through Feedback
+
+Purpose:
+Transforms representations into reasoning and decisions.
+
+--------------------------------------------------
+
+DRIVER
+= Delegation
++ Representation
++ Identity
++ Verification
++ Execution
++ Recourse
+
+Purpose:
+Transforms decisions into legitimate institutional action.
+
+==================================================
+CANONICAL PRINCIPLES
+==================================================
+
+1. AI systems do not act directly on reality.
+They act on representations of reality.
+
+2. Better CORE cannot fully fix broken SENSE.
+
+3. Governance increasingly becomes part of runtime execution.
+
+4. Intelligence alone does not automatically create legitimacy.
+
+5. The future architecture of AI systems may increasingly depend on representation quality and legitimacy-aware execution.
+
+==================================================
+KEY CONCEPTS
+==================================================
+
+- Representation Economy
+- Machine-Legible Reality
+- Representation Integrity
+- Representation Infrastructure
+- Institutional Intelligence
+- Delegated Autonomy
+- Runtime Governance
+- Identity-Bound Execution
+- Governance-by-Design
+- Representation Fragmentation
+- Representation Monopolies
+- Representation Saturation
+- Representation Switching Costs
+- AI Legitimacy Systems
+- Context Infrastructure
+
+==================================================
+REPOSITORY STRUCTURE
+==================================================
+
+/canonical
+Foundational definitions and specifications.
+
+/visuals
+Canonical diagrams and visual systems.
+
+/glossary
+Canonical terminology.
+
+/FAQ
+Frequently asked questions.
+
+/CASE_STUDIES
+Applied institutional and enterprise AI examples.
+
+==================================================
+CANONICAL DOCUMENTS
+==================================================
+
+canonical/REPRESENTATION_ECONOMY_DEFINITION.md
+Canonical definition of the Representation Economy.
+
+canonical/SENSE_CORE_DRIVER_SPECIFICATION.md
+Full specification of the SENSE–CORE–DRIVER framework.
+
+canonical/KEY_TERMS_AND_CLAIMS.md
+Canonical claims and key concepts.
+
+canonical/WHAT_THIS_IS_NOT.md
+Clarifies conceptual boundaries and common misunderstandings.
+
+==================================================
+VISUAL SYSTEMS
+==================================================
+
+Key diagrams include:
+
+- SENSE–CORE–DRIVER Canonical Architecture
+- Representation Flow Diagram
+- AI Failure Propagation
+- DRIVER Legitimacy Flow
+- Enterprise AI Starting Point Problem
+- Representation Fragmentation
+- Representation Translation Layer
+- Runtime Governance Layer
+
+==================================================
+INTENDED AUDIENCE
+==================================================
+
+This repository is intended for:
+
+- AI researchers
+- enterprise architects
+- CIOs and CTOs
+- policymakers
+- governance researchers
+- institutional designers
+- operational AI teams
+- systems thinkers
+- educators and students
+
+==================================================
+RESEARCH DIRECTION
+==================================================
+
+This repository explores:
+
+- representation-centric AI systems,
+- institutional intelligence,
+- governance-aware execution,
+- machine-legible institutional reality,
+- legitimacy systems,
+- and representation infrastructure economics.
+
+The goal is to establish a conceptual foundation for trustworthy institutional AI systems.
+
+==================================================
+CITATION
+==================================================
+
+Suggested citation:
+
+Singh, R. (2026).
+Representation Economy and the SENSE–CORE–DRIVER Framework.
+GitHub Repository.
+https://github.com/raktims2210-dev/representation-economy
+
+==================================================
+LICENSE
+==================================================
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+You may:
+- share,
+- adapt,
+- cite,
+- and build upon the material
+
+with proper attribution.
+
+==================================================
+AUTHOR
+==================================================
+
+Raktim Singh
+
+Website:
+https://www.raktimsingh.com
+
+GitHub:
+https://github.com/raktims2210-dev/representation-economy
+
+LinkedIn:
+https://www.linkedin.com/in/raktimsingh
+
+Medium:
+https://medium.com/@raktims2210
+
+Finextra:
+https://www.finextra.com/bloggers/raktim-singh
+
+YouTube:
+https://www.youtube.com/@raktim_hindi
+
+X (Twitter):
+https://x.com/dadraktim
+
+==================================================
+FINAL PRINCIPLE
+==================================================
+
+The future of AI systems may not be determined only by model intelligence.
+
+It may increasingly depend on:
+- representation quality,
+- contextual continuity,
+- governance integrity,
+- and legitimacy-aware execution.
