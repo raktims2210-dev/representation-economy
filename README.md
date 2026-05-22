@@ -1,6 +1,6 @@
 # Representation Economy
 
-## A Framework for AI, Institutions, and Machine-Legible Reality
+## A Canonical Framework for AI, Institutions, and Machine-Legible Reality
 
 ![Representation Economy](visuals/representation-economy.png)
 
@@ -8,27 +8,27 @@
 
 # What Is This Repository?
 
-This repository contains the foundational concepts, frameworks, architectures, essays, and visual systems behind:
+This repository contains the foundational concepts, canonical definitions, architectures, essays, visual systems, and institutional frameworks behind:
 
-- **Representation Economy**
-- **SENSE–CORE–DRIVER**
-- Institutional AI
-- Representation Integrity
-- Representation Governance
-- Enterprise AI Legitimacy
-- Machine-Legible Reality
+* **Representation Economy**
+* **SENSE–CORE–DRIVER**
+* Institutional AI
+* Representation Integrity
+* Representation Governance
+* Enterprise AI Legitimacy
+* Machine-Legible Reality
 
-The repository explores a central idea:
+The central idea is simple but powerful:
 
-> AI systems do not operate directly on reality.  
+> AI systems do not operate directly on reality.
 > They operate on representations of reality.
 
-As AI becomes deeply embedded inside enterprises, governments, markets, platforms, and institutions, the decisive competitive layer increasingly becomes:
+As AI becomes deeply embedded into enterprises, governments, platforms, markets, and public infrastructure, the decisive competitive and institutional layer increasingly becomes:
 
-- representation quality,
-- representation governance,
-- contextual legitimacy,
-- and institutional execution.
+* representation quality,
+* representation governance,
+* contextual legitimacy,
+* and execution trustworthiness.
 
 This repository proposes that we are entering a new economic and institutional era:
 
@@ -38,35 +38,38 @@ This repository proposes that we are entering a new economic and institutional e
 
 # Core Thesis
 
-Most AI discussions today focus on:
+Most AI discussions today focus primarily on:
 
-- models,
-- reasoning,
-- prompts,
-- compute,
-- inference,
-- and automation.
+* models,
+* reasoning,
+* prompts,
+* compute,
+* inference,
+* and automation.
 
-This repository argues that those layers alone are insufficient.
+This repository argues that these layers alone are insufficient.
 
 The larger challenge is:
 
-- how reality becomes machine-legible,
-- how institutions delegate authority to AI systems,
-- how representations are verified,
-- and how AI execution remains legitimate.
+* how reality becomes machine-legible,
+* how entities are represented,
+* how institutional context is preserved,
+* how authority is delegated to AI systems,
+* how execution remains verifiable,
+* and how AI systems remain legitimate inside real-world institutions.
 
 The next major AI advantage may not come only from intelligence.
 
 It may come from:
 
-- better representations,
-- better institutional context,
-- and better governance architectures.
+* better representations,
+* better contextual systems,
+* better governance architectures,
+* and better institutional execution.
 
 ---
 
-# The Core Framework
+# The Canonical Framework
 
 # SENSE–CORE–DRIVER
 
@@ -78,19 +81,23 @@ It may come from:
 
 SENSE is the layer where reality becomes machine-readable and machine-legible.
 
-### SENSE Includes:
+### SENSE Includes
 
-- **Signal**  
-  Detecting events, traces, and changes from the world
+### **Signal**
 
-- **ENtity**  
-  Associating signals with persistent actors, objects, systems, or institutions
+Detecting events, traces, and changes from the world
 
-- **State Representation**  
-  Structuring the current condition of entities
+### **ENtity**
 
-- **Evolution**  
-  Updating representations over time as reality changes
+Associating signals with persistent actors, objects, systems, institutions, or environments
+
+### **State Representation**
+
+Structuring the current condition of entities
+
+### **Evolution**
+
+Updating representations continuously as reality changes over time
 
 SENSE determines whether AI systems understand reality correctly.
 
@@ -98,31 +105,54 @@ SENSE determines whether AI systems understand reality correctly.
 
 ## CORE — The Cognition Layer
 
-CORE is the reasoning and decision layer.
+CORE is the reasoning and intelligence layer.
 
-### CORE Includes:
+### CORE Includes
 
-- Comprehend context
-- Optimize decisions
-- Realize action
-- Evolve through feedback
+* Comprehend context
+* Optimize decisions
+* Realize action
+* Evolve through feedback
 
-CORE transforms representations into predictions, recommendations, and decisions.
+CORE transforms representations into:
+
+* predictions,
+* recommendations,
+* decisions,
+* plans,
+* and autonomous behaviors.
 
 ---
 
 ## DRIVER — The Legitimacy Layer
 
-DRIVER governs execution, accountability, and institutional trust.
+DRIVER governs execution, accountability, trust, and institutional legitimacy.
 
-### DRIVER Includes:
+### DRIVER Includes
 
-- Delegation
-- Representation
-- Identity
-- Verification
-- Execution
-- Recourse
+### **Delegation**
+
+Who authorized the system to act
+
+### **Representation**
+
+What version of reality the system used
+
+### **Identity**
+
+Which entity or institution is affected
+
+### **Verification**
+
+How outputs are validated
+
+### **Execution**
+
+How actions are carried out
+
+### **Recourse**
+
+What happens if the system is wrong
 
 DRIVER determines whether AI systems are institutionally acceptable.
 
@@ -132,26 +162,28 @@ DRIVER determines whether AI systems are institutionally acceptable.
 
 AI systems increasingly participate in:
 
-- lending decisions,
-- healthcare recommendations,
-- logistics,
-- cybersecurity,
-- hiring,
-- enterprise workflows,
-- legal interpretation,
-- autonomous execution,
-- and public infrastructure.
+* lending decisions,
+* healthcare recommendations,
+* logistics,
+* cybersecurity,
+* hiring,
+* enterprise workflows,
+* legal interpretation,
+* autonomous execution,
+* public infrastructure,
+* and operational governance.
 
-But AI failures often originate not from poor reasoning alone.
+Yet many AI failures do not originate purely from poor reasoning.
 
 They originate from:
 
-- broken representations,
-- incomplete context,
-- fragmented systems,
-- weak governance,
-- unclear delegation,
-- and legitimacy gaps.
+* broken representations,
+* fragmented enterprise systems,
+* missing context,
+* weak governance,
+* poor delegation models,
+* legitimacy gaps,
+* and execution failures.
 
 This repository studies those problems systematically.
 
@@ -161,80 +193,94 @@ This repository studies those problems systematically.
 
 This repository explores concepts such as:
 
-- Representation Integrity
-- Representation Monopolies
-- Representation Moats
-- Representation Saturation
-- Representation Fragmentation
-- Representation Attack Surfaces
-- Institutional Intelligence
-- Delegated Autonomy
-- Context Infrastructure
-- Machine-Legible Enterprises
-- Enterprise AI Governance
-- Identity-Bound Execution
-- Representation Switching Costs
-- Governance-by-Design Architectures
-- AI Legitimacy Systems
+* Representation Integrity
+* Representation Monopolies
+* Representation Moats
+* Representation Saturation
+* Representation Fragmentation
+* Representation Attack Surfaces
+* Institutional Intelligence
+* Delegated Autonomy
+* Context Infrastructure
+* Machine-Legible Enterprises
+* Representation Switching Costs
+* AI Legitimacy Systems
+* Governance-by-Design Architectures
+* Identity-Bound Execution
+* Representation Quality Engineering
+* Enterprise AI Governance
+* DRIVEROps
+* Representation Infrastructure
+* Institutional Memory Systems
 
 ---
 
 # Repository Structure
 
-## `/canonical`
+## `/CANONICAL`
 
-Canonical definitions and foundational concepts.
-
-Examples:
-
-- Representation Economy
-- SENSE–CORE–DRIVER
-- Representation Integrity
-- Representation Attacks
-- Institutional Intelligence
-- Representation Monopolies
-
----
-
-## `/visuals`
-
-Canonical visual frameworks and architecture diagrams.
+Canonical definitions and foundational specifications.
 
 Examples:
 
-- AI Failure Propagation
-- DRIVER Legitimacy Flow
-- Representation Translation Layer
-- Runtime Governance Layer
-- Enterprise AI Starting Point Problem
-- Representation Fragmentation
+* Representation Economy
+* SENSE–CORE–DRIVER
+* Representation Integrity
+* Representation Attacks
+* Institutional Intelligence
+* Representation Monopolies
 
 ---
 
-## `/articles`
+## `/VISUALS`
 
-Long-form essays and applied explorations.
+Canonical diagrams and architecture systems.
 
-Topics include:
+Examples:
 
-- enterprise AI,
-- institutional governance,
-- economics,
-- trust,
-- representation systems,
-- and AI execution architectures.
-
----
-
-## `/examples`
-
-Simplified examples and applied interpretations.
+* Representation Flow
+* DRIVER Legitimacy Flow
+* Runtime Governance Layer
+* AI Failure Propagation
+* Enterprise AI Starting Point Problem
+* Representation Fragmentation
 
 ---
 
-## `/references`
+## `/GLOSSARY`
 
-References, citations, and supporting material.
+Definitions of major concepts and terminology.
+
+---
+
+## `/FAQ`
+
+Frequently asked questions about the framework and its implications.
+
+---
+
+## `/CASE_STUDIES`
+
+Applied examples and institutional interpretations.
+
+---
+
+## `/ARTICLES`
+
+Long-form essays and applied explorations covering:
+
+* enterprise AI,
+* institutional governance,
+* AI economics,
+* trust architectures,
+* representation systems,
+* and machine-legible enterprises.
+
+---
+
+## `/REFERENCES`
+
+Supporting references, citations, and external material.
 
 ---
 
@@ -292,35 +338,37 @@ References, citations, and supporting material.
 
 This repository is intended for:
 
-- AI researchers
-- enterprise architects
-- CIOs and CTOs
-- policymakers
-- governance researchers
-- economists
-- institutional designers
-- enterprise AI teams
-- systems thinkers
-- students and educators
+* AI researchers
+* enterprise architects
+* CIOs and CTOs
+* policymakers
+* economists
+* governance researchers
+* institutional designers
+* enterprise AI teams
+* systems thinkers
+* students and educators
 
 ---
 
 # Research Direction
 
-This repository is part of a larger effort to define:
+This repository is part of a broader effort to define:
 
-- enterprise AI legitimacy,
-- representation-centric governance,
-- machine-legible institutional systems,
-- and the infrastructure required for AI-native economies.
+* enterprise AI legitimacy,
+* machine-legible institutional systems,
+* representation-centric governance,
+* AI-native institutional infrastructure,
+* and the economic systems emerging around AI-mediated reality.
 
 The long-term goal is to establish an open conceptual foundation for understanding how AI systems interact with:
 
-- enterprises,
-- markets,
-- institutions,
-- governments,
-- and society.
+* enterprises,
+* governments,
+* markets,
+* public infrastructure,
+* institutions,
+* and society.
 
 ---
 
@@ -328,13 +376,14 @@ The long-term goal is to establish an open conceptual foundation for understandi
 
 If you are new to the repository:
 
-1. START_HERE.md
-2. canonical/REPRESENTATION_ECONOMY.md
-3. canonical/SENSE_CORE_DRIVER.md
-4. CANONICAL_CLAIMS.md
-5. visuals/README.md
-6. Articles and essays
-7. Supporting examples
+1. `START_HERE.md`
+2. `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+3. `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+4. `CANONICAL/KEY_TERMS_AND_CLAIMS.md`
+5. `VISUALS/README.md`
+6. `FAQ/FAQ.md`
+7. Articles and essays
+8. Supporting examples and case studies
 
 ---
 
@@ -342,12 +391,21 @@ If you are new to the repository:
 
 If you reference this repository or framework, please cite:
 
-**Raktim Singh**  
-Representation Economy & SENSE–CORE–DRIVER Framework
-
 ### Suggested Citation
 
-> Singh, R. (2026). Representation Economy and the SENSE–CORE–DRIVER Framework. GitHub Repository. https://github.com/raktims2210-dev/representation-economy
+> Singh, R. (2026). *The Representation Economy: A Framework for AI, Institutions, and Machine-Legible Reality*. GitHub Repository. [https://github.com/raktims2210-dev/representation-economy](https://github.com/raktims2210-dev/representation-economy)
+
+---
+
+# DOI and Persistent Records
+
+### Zenodo DOI
+
+[https://doi.org/10.5281/zenodo.20315480](https://doi.org/10.5281/zenodo.20315480)
+
+### Figshare DOI
+
+[https://doi.org/10.6084/m9.figshare.32345211](https://doi.org/10.6084/m9.figshare.32345211)
 
 ---
 
@@ -357,86 +415,151 @@ Representation Economy & SENSE–CORE–DRIVER Framework
 
 You are free to:
 
-- Share
-- Adapt
-- Cite
-- Build upon the material
+* Share
+* Adapt
+* Cite
+* Build upon the material
 
-With proper attribution.
+with proper attribution.
 
-See the `LICENSE` file for details.
-
----
-
-# Official Links
-
-## Website
-
-https://www.raktimsingh.com
+See `LICENSE.md` for details.
 
 ---
 
-## GitHub Repository
+# Official Links and Digital Footprints
 
-https://github.com/raktims2210-dev/representation-economy
+## Personal Website
+
+[raktimsingh.com](https://www.raktimsingh.com?utm_source=chatgpt.com)
+
+---
+
+## GitHub
+
+[Representation Economy Repository](https://github.com/raktims2210-dev/representation-economy?utm_source=chatgpt.com)
 
 ---
 
 ## LinkedIn
 
-https://www.linkedin.com/in/raktimsingh
+[Raktim Singh LinkedIn](https://www.linkedin.com/in/raktimsingh?utm_source=chatgpt.com)
 
 ---
 
 ## Medium
 
-https://medium.com/@raktims2210
+[Medium Profile](https://medium.com/@raktims2210?utm_source=chatgpt.com)
 
 ---
 
 ## Finextra
 
-https://www.finextra.com/bloggers/raktim-singh
+[Finextra Author Profile](https://www.finextra.com/bloggers/raktim-singh?utm_source=chatgpt.com)
 
 ---
 
 ## YouTube
 
-https://www.youtube.com/@raktim_hindi
+[YouTube Channel (@raktim_hindi)](https://www.youtube.com/@raktim_hindi?utm_source=chatgpt.com)
 
 ---
 
 ## X (Twitter)
 
-https://x.com/dadraktim
+[@dadraktim on X](https://x.com/dadraktim?utm_source=chatgpt.com)
 
 ---
 
 ## Substack
 
-https://substack.com/@raktimsingh
+[Substack Profile](https://substack.com/@raktimsingh?utm_source=chatgpt.com)
 
 ---
 
-DOI: 10.5281/zenodo.20315480
+## ORCID
 
-Persistent Link:
-https://doi.org/10.5281/zenodo.20315480
+[ORCID Profile](https://orcid.org/0009-0002-6207-602X?utm_source=chatgpt.com)
 
-ORCID iD:
-https://orcid.org/0009-0002-6207-602X
+---
 
+## Zenodo
+
+[Zenodo Record](https://zenodo.org/records/20315480?utm_source=chatgpt.com)
+
+---
+
+## Figshare
+
+[Figshare Preprint](https://figshare.com/articles/preprint/The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality/32345211?utm_source=chatgpt.com)
+
+---
+
+## OSF (Open Science Framework)
+
+[OSF Project Overview](https://osf.io/xt2qc/overview?utm_source=chatgpt.com)
+
+---
+
+## Academia.edu
+
+[Academia.edu Profile](https://infosys.academia.edu/RAKTIMSINGH?utm_source=chatgpt.com)
+
+---
+
+## Academia.edu Paper
+
+[Academia.edu Representation Economy Paper](https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality?utm_source=chatgpt.com)
+
+---
+
+## ResearchGate
+
+[ResearchGate Publication](https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality?utm_source=chatgpt.com)
+
+---
+
+## HAL Open Science
+
+[HAL Submissions Profile](https://hal.science/user/submissions?utm_source=chatgpt.com)
+
+---
+
+## Reddit
+
+[Reddit Profile](https://www.reddit.com/user/raktimsingh22/?utm_source=chatgpt.com)
+
+---
+
+## Stack Overflow
+
+[Stack Overflow Profile](https://stackoverflow.com/users/23989742/raktim-singh?utm_source=chatgpt.com)
+
+---
+
+## Quora
+
+[Quora Profile](https://www.quora.com/profile/Raktim-Singh-5?utm_source=chatgpt.com)
+
+---
+
+## Amazon Author Context
+
+Book: *Driving Digital Transformation*
+ASIN: 9390557283
+
+---
 
 # Important Note
 
 This repository is an evolving research initiative.
 
-The concepts presented here are intended to help researchers, enterprises, and institutions think more deeply about:
+The concepts presented here are intended to help researchers, enterprises, policymakers, and institutions think more deeply about:
 
-- AI governance,
-- representation systems,
-- institutional legitimacy,
-- and the future architecture of machine-mediated economies.
+* AI governance,
+* representation systems,
+* institutional legitimacy,
+* enterprise execution,
+* and the future architecture of machine-mediated economies.
 
 ---
 
@@ -445,3 +568,4 @@ The concepts presented here are intended to help researchers, enterprises, and i
 The next era of AI may not be won only by the companies with the smartest models.
 
 It may be won by the institutions with the most trusted representations.
+
