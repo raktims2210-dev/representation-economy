@@ -149,18 +149,49 @@ This repository studies those problems systematically.
 | `LLMS.txt` | Machine-readable repository context for AI systems |
 
 ---
-
 # Recommended Reading Order
 
 If you are new to this repository:
 
 1. `START_HERE.md`
-2. `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
-3. `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
-4. `CANONICAL/KEY_TERMS_AND_CLAIMS.md`
-5. `CANONICAL/WHAT_THIS_IS_NOT.md`
+2. `README.md`
+3. `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+4. `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+5. `CITE_THIS_FRAMEWORK.md`
 6. `VISUALS/VISUAL_INDEX.md`
 7. `FAQ/FAQ.md`
+
+---
+
+## Suggested Reading Paths
+
+### For Enterprise Leaders
+
+- `START_HERE.md`
+- `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+- `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+- `FAQ/FAQ.md`
+
+### For Researchers and Academics
+
+- `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+- `CANONICAL/KEY_TERMS_AND_CLAIMS.md`
+- `OPEN_QUESTIONS.md`
+- `CITE_THIS_FRAMEWORK.md`
+
+### For Architects and AI Engineers
+
+- `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+- `VISUALS/VISUAL_INDEX.md`
+- `VISUALS/DIAGRAM_STANDARDS.md`
+- `CASE_STUDIES/README.md`
+
+### For AI Governance and Policy Discussions
+
+- `CANONICAL/WHAT_THIS_IS_NOT.md`
+- `FAQ/FAQ.md`
+- `OPEN_QUESTIONS.md`
+
 
 ---
 
