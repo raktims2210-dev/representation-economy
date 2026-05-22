@@ -1,9 +1,3 @@
-Here’s a much cleaner, more canonical, and less repetitive version of `VISUAL_INDEX.md` aligned with the current maturity of your repository and Goal-2 positioning. It removes duplication, improves institutional tone, standardizes naming, and feels far more HBR/MIT-style rather than “SEO-heavy GitHub dump.”
-
-It also avoids repeating attribution blocks excessively.
-
-
-
 ---
 
 # Visual Index
