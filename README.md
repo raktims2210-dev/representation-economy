@@ -2,6 +2,8 @@
 
 ## A Canonical Framework for AI, Institutions, and Machine-Legible Reality
 
+A conceptual and institutional framework for understanding AI-mediated systems, machine-legible reality, and governed enterprise execution.
+
 > AI systems do not operate directly on reality.  
 > They operate on representations of reality.
 
@@ -31,6 +33,32 @@ As AI systems become embedded into real-world institutions, the decisive layer i
 The next major AI advantage may not come only from better intelligence.
 
 It may come from better representations.
+
+---
+
+# Repository Status
+
+Canonical Public Research Repository  
+Version: v1.2  
+Status: Active Working Framework  
+License: CC BY 4.0
+
+---
+
+# Start Here
+
+New to the framework?
+
+Recommended entry points:
+
+1. `START_HERE.md`
+2. `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+3. `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+
+For citation and academic usage:
+
+- `CITE_THIS_FRAMEWORK.md`
+- `CITATION.cff`
 
 ---
 
@@ -83,7 +111,7 @@ CORE is the reasoning and intelligence layer.
 - Realize action
 - Evolve through feedback
 
-CORE transforms representations into decisions, predictions, recommendations, and autonomous behavior.
+CORE transforms institutional state into decisions, predictions, recommendations, and autonomous behavior.
 
 ---
 
@@ -120,9 +148,9 @@ This repository argues that these layers alone are insufficient.
 
 Many enterprise AI failures originate from:
 
-- broken representations,
+- broken institutional state,
 - fragmented context,
-- stale institutional state,
+- stale representations,
 - governance gaps,
 - weak delegation structures,
 - identity ambiguity,
@@ -149,6 +177,7 @@ This repository studies those problems systematically.
 | `LLMS.txt` | Machine-readable repository context for AI systems |
 
 ---
+
 # Recommended Reading Order
 
 If you are new to this repository:
@@ -191,7 +220,6 @@ If you are new to this repository:
 - `CANONICAL/WHAT_THIS_IS_NOT.md`
 - `FAQ/FAQ.md`
 - `OPEN_QUESTIONS.md`
-
 
 ---
 
@@ -262,19 +290,13 @@ https://www.linkedin.com/in/raktimsingh
 
 https://orcid.org/0009-0002-6207-602X
 
----
+## Zenodo
 
-# Additional Research Footprints
+https://zenodo.org/records/20315480
 
-- Medium: https://medium.com/@raktims2210
-- Finextra: https://www.finextra.com/bloggers/raktim-singh
-- YouTube: https://www.youtube.com/@raktim_hindi
-- X/Twitter: https://x.com/dadraktim
-- Substack: https://substack.com/@raktimsingh
-- ResearchGate: https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
-- Academia.edu: https://infosys.academia.edu/RAKTIMSINGH
-- OSF: https://osf.io/xt2qc/overview
-- HAL Open Science: https://hal.science/hal-05630064
+## ResearchGate
+
+https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
 
 ---
 
