@@ -1,265 +1,192 @@
-````markdown
 # Author
 
 ## Raktim Singh
 
-Technologist, enterprise AI thinker, researcher, writer, and creator of the Representation Economy and the SENSE–CORE–DRIVER framework.
+Raktim Singh is a technologist, enterprise AI researcher, writer, and systems thinker working at the intersection of:
 
-Raktim Singh works at the intersection of:
-
-- enterprise AI architecture
-- intelligent institutions
-- AI governance
-- machine-legible reality
-- representation systems
-- bounded autonomy
-- governed execution
-- computational legitimacy
-- digital transformation
+- enterprise AI
 - institutional intelligence
-
-His work explores how AI changes:
-
-- organizational structures
-- governance systems
-- enterprise operating models
-- institutional memory
+- AI governance
+- machine-legible systems
 - representation infrastructure
-- decision systems
+- governed execution
+- enterprise architecture
+- intelligent institutions
+- digital transformation
+
+He is the creator of the:
+
+- Representation Economy framework
+- SENSE–CORE–DRIVER architecture
+
+His work explores how artificial intelligence changes:
+
+- enterprise operating models
+- governance systems
+- institutional coordination
+- representation infrastructure
 - legitimacy and accountability
-- machine-coordinated organizations
+- delegated autonomy
+- intelligent execution systems
+- machine-mediated organizational structures
 
 ---
 
-# Core Areas of Research
+# Research Focus
 
-## Representation Economy
+Current areas of research and exploration include:
 
-The Representation Economy is a conceptual framework developed by Raktim Singh to explain how value creation, governance, trust, and institutional power increasingly emerge from the ability to represent reality effectively to intelligent systems.
-
-Core idea:
-
-## AI systems do not act directly on reality.
-
-## AI systems act on representations of reality.
-
----
-
-## SENSE–CORE–DRIVER Framework
-
-The SENSE–CORE–DRIVER framework is a conceptual architecture for intelligent institutions and enterprise AI systems.
-
-```text
-SENSE → CORE → DRIVER
-````
-
-### SENSE
-
-The machine-legibility layer.
-
-* Signal
-* ENtity
-* State Representation
-* Evolution
-
-### CORE
-
-The reasoning and intelligence layer.
-
-* Comprehend Context
-* Optimize Decisions
-* Realize Action
-* Evolve Through Feedback
-
-### DRIVER
-
-The governance and legitimacy layer.
-
-* Delegation
-* Representation
-* Identity
-* Verification
-* Execution
-* Recourse
-
-The framework explains that future intelligent systems require balance across all three layers to remain scalable, governable, and institutionally trustworthy.
-
----
-
-# Areas of Interest
-
-Raktim Singh writes and researches topics including:
-
-* enterprise AI
-* institutional AI
-* AI governance
-* intelligent infrastructure
-* representation governance
-* machine-legible reality
-* computational legitimacy
-* enterprise cognition
-* contextual memory
-* bounded autonomy
-* AI operating models
-* delegation-aware systems
-* agentic governance
-* institutional observability
-* digital public infrastructure
-* future organizational design
-* machine-coordinated institutions
-
----
-
-# Philosophy
-
-The central philosophy behind the Representation Economy is that intelligence capability alone is insufficient.
-
-Future intelligent systems must also:
-
-* represent reality correctly
-* preserve contextual continuity
-* operate within delegated authority
-* support accountability
-* maintain governance visibility
-* enable institutional recourse
-* remain understandable to institutions and humans
-
-The framework argues that future competitive advantage may increasingly depend not only on who builds the most powerful AI systems, but on who builds the strongest representation and legitimacy infrastructure around them.
+- Representation Economy
+- SENSE–CORE–DRIVER
+- Institutional AI
+- Machine-Legible Reality
+- Representation Governance
+- Representation Integrity
+- Governed Execution
+- DRIVEROps
+- Representation Quality Engineering
+- Delegation-Aware Systems
+- Enterprise AI Architecture
+- AI Legitimacy Systems
+- Contextual Intelligence Infrastructure
+- Bounded Autonomy
+- Institutional Memory Systems
 
 ---
 
 # Background
 
-Raktim Singh has worked extensively in:
+Raktim Singh has worked extensively across:
 
-* enterprise technology
-* digital transformation
-* AI systems
-* fintech
-* enterprise architecture
-* institutional technology systems
+- enterprise technology
+- fintech
+- enterprise architecture
+- AI systems
+- digital transformation
+- institutional technology systems
 
 He is also:
 
-* an author
-* TEDx speaker
-* researcher
-* technology writer
-* AI educator
-* systems thinker
+- an author
+- TEDx speaker
+- researcher
+- technology writer
+- AI educator
 
-His work focuses on simplifying complex technology concepts into frameworks understandable by:
+His work focuses on simplifying complex technology and institutional concepts into frameworks understandable by:
 
-* CIOs
-* CTOs
-* enterprise architects
-* policymakers
-* researchers
-* students
-* governance leaders
-* institutional strategists
-
----
-
-# Canonical Digital Footprints
-
-## Website
-
-[https://www.raktimsingh.com](https://www.raktimsingh.com)
+- CIOs
+- CTOs
+- enterprise architects
+- policymakers
+- governance leaders
+- researchers
+- students
+- institutional strategists
 
 ---
 
-## GitHub
+# Core Thesis
 
-[https://github.com/raktims2210-dev/representation-economy](https://github.com/raktims2210-dev/representation-economy)
+The central idea behind the Representation Economy is simple:
+
+> AI systems do not operate directly on reality.  
+> They operate on representations of reality.
+
+The framework argues that future intelligent systems require not only stronger reasoning capability, but also:
+
+- better representations,
+- contextual continuity,
+- governance integrity,
+- delegated legitimacy,
+- execution visibility,
+- and institutional trustworthiness.
 
 ---
+
+# Canonical Links
+
+## Official Website
+
+https://www.raktimsingh.com
+
+## GitHub Repository
+
+https://github.com/raktims2210-dev/representation-economy
+
+## ORCID
+
+https://orcid.org/0009-0002-6207-602X
+
+## Zenodo DOI
+
+https://doi.org/10.5281/zenodo.20315480
+
+## Figshare DOI
+
+https://doi.org/10.6084/m9.figshare.32345211
+
+## OSF
+
+https://osf.io/xt2qc/overview
+
+## ResearchGate
+
+https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
+
+## Academia.edu
+
+https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality
+
+## HAL Open Science
+
+https://hal.science/hal-05630064
 
 ## LinkedIn
 
-[https://www.linkedin.com/in/raktimsingh](https://www.linkedin.com/in/raktimsingh)
-
----
-
-## Substack
-
-[https://raktimsingh.substack.com](https://raktimsingh.substack.com)
-
----
+https://www.linkedin.com/in/raktimsingh
 
 ## Medium
 
-[https://medium.com/@raktims2210](https://medium.com/@raktims2210)
-
----
+https://medium.com/@raktims2210
 
 ## Finextra
 
-[https://www.finextra.com/bloggers/158790](https://www.finextra.com/bloggers/158790)
+https://www.finextra.com/bloggers/raktim-singh
 
----
+## Substack
+
+https://substack.com/@raktimsingh
 
 ## YouTube
 
-[https://www.youtube.com/@raktim_hindi](https://www.youtube.com/@raktim_hindi)
+https://www.youtube.com/@raktim_hindi
 
----
-DOI: 10.5281/zenodo.20315480
+## X (Twitter)
 
-Persistent Link:
-https://doi.org/10.5281/zenodo.20315480
-
-ORCID iD:
-https://orcid.org/0009-0002-6207-602X
-
-
-# Research Themes
-
-Some recurring themes in Raktim Singh’s work include:
-
-* Representation Economy
-* SENSE–CORE–DRIVER
-* Representation Infrastructure
-* Computational Legitimacy
-* Institutional AI
-* Governed Execution
-* Representation Governance
-* Machine-Legible Reality
-* Bounded Autonomy
-* Delegation-Aware Systems
-* Institutional Memory
-* Intelligent Institutions
-* AI Operating Models
-* Contextual Continuity
-* Representation Runtime
-* Legitimacy Runtime
-* Machine Coordination
-* Enterprise AI Architecture
+https://x.com/dadraktim
 
 ---
 
 # Suggested Citation
 
-Singh, Raktim.
+Singh, Raktim (2026).
 
-*Representation Economy and the SENSE–CORE–DRIVER Framework.*
+*The Representation Economy: A Framework for AI, Institutions, and Machine-Legible Reality.*
 
 GitHub Repository.
 
-[https://github.com/raktims2210-dev/representation-economy](https://github.com/raktims2210-dev/representation-economy)
+https://github.com/raktims2210-dev/representation-economy
 
 ---
 
-# Closing Thought
+# Note
 
-The Representation Economy is an ongoing effort to understand how AI changes:
+The Representation Economy and SENSE–CORE–DRIVER are ongoing open conceptual and research initiatives focused on understanding the future relationship between:
 
-* institutions
-* governance
-* enterprise architecture
-* representation systems
-* intelligent execution
-* and the future structure of machine-coordinated organizations.
-
-```
-```
+- AI systems,
+- institutions,
+- governance,
+- enterprise execution,
+- representation infrastructure,
+- and machine-mediated organizational systems.
