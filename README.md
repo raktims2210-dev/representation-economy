@@ -32,6 +32,16 @@ The next major AI advantage may not come only from better intelligence.
 It may come from better representations.
 
 ---
+---
+
+# Persistent Records and Research Archives
+
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20315480
+- Figshare DOI: https://doi.org/10.6084/m9.figshare.32345211
+- OSF: https://osf.io/xt2qc/overview
+- ResearchGate: https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
+- Academia.edu: https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality
+- HAL Open Science: https://hal.science/hal-05630064
 
 # The Canonical Framework
 
