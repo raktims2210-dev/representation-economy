@@ -74,6 +74,29 @@ The foundational diagram explaining:
 
 ---
 
+## SENSE–CORE–DRIVER Architecture
+
+### File
+
+`sense-core-driver-architecture.png`
+
+### Purpose
+
+A canonical institutional architecture diagram explaining how AI systems move from sensing reality to governed execution and accountable impact.
+
+### Key Concepts
+
+- machine-legible reality
+- institutional AI
+- governance-aware execution
+- representation quality
+- enterprise AI architecture
+- bounded autonomy
+
+### Preview
+
+![SENSE CORE DRIVER](sense-core-driver-architecture.png)
+
 # 2. Representation System Diagrams
 
 ---
@@ -102,6 +125,28 @@ Explains how signals become institutional actions through layered representation
 ![Representation Flow](representation-flow-diagram.png)
 
 ---
+## Representation Economy Stack
+
+### File
+
+`representation-economy-stack.png`
+
+### Purpose
+
+Explains the layered architecture of the Representation Economy, showing how representations evolve from raw reality inputs into institutional impact and governable intelligent systems.
+
+### Key Concepts
+
+- representation infrastructure
+- institutional intelligence
+- value compounding
+- governance layers
+- enterprise orchestration
+- intelligent execution systems
+
+### Preview
+
+![Representation Economy Stack](representation-economy-stack.png)
 
 ## Representation Fragmentation
 
@@ -126,6 +171,28 @@ Illustrates how disconnected enterprise systems create conflicting or incomplete
 ![Representation Fragmentation](Representation%20Fragmentation.png)
 
 ---
+## Representation Failure Cascade
+
+### File
+
+`representation-failure-cascade.png`
+
+### Purpose
+
+Illustrates how weak sensing, poor representation quality, and governance failures propagate through AI systems and compound into institutional and operational breakdowns.
+
+### Key Concepts
+
+- representation failure
+- governance collapse
+- cascading system failures
+- institutional fragility
+- poor AI outcomes
+- representation quality engineering
+
+### Preview
+
+![Representation Failure Cascade](representation-failure-cascade.png)
 
 ## Representation Translation Layer
 
