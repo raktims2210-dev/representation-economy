@@ -29,7 +29,25 @@ That is the core idea of the Representation Economy.
 
 ---
 
-## 2. Why Representation Matters
+## 2. Why This Guide Exists
+
+This guide exists to provide a canonical, practical, and institution-oriented explanation of the Representation Economy and the SENSE–CORE–DRIVER framework.
+
+The goal is not only academic discussion.
+
+The goal is to help enterprises, researchers, policymakers, architects, and institutional leaders understand why AI systems increasingly depend on machine-legible representations, governed execution, and institutional legitimacy.
+
+This document is designed to function as:
+
+- a conceptual introduction,
+- a governance framework,
+- an enterprise architecture lens,
+- a terminology reference,
+- and a long-term public canonical guide.
+
+---
+
+## 3. Why Representation Matters
 
 Most discussions about AI focus on models.
 
@@ -54,7 +72,7 @@ Better intelligence cannot fix broken representation.
 
 ---
 
-## 3. The Core Thesis
+## 4. The Core Thesis
 
 The central thesis of the Representation Economy is:
 
@@ -66,7 +84,7 @@ Organizations that cannot will struggle to convert AI capability into trustworth
 
 ---
 
-## 4. From Data to Representation
+## 5. From Data to Representation
 
 Data is not the same as representation.
 
@@ -97,7 +115,7 @@ Representation answers questions such as:
 
 ---
 
-## 5. The SENSE–CORE–DRIVER Framework
+## 6. The SENSE–CORE–DRIVER Framework
 
 The Representation Economy can be understood through the **SENSE–CORE–DRIVER** framework.
 
@@ -105,7 +123,7 @@ This framework explains how AI systems convert reality into action.
 
 ---
 
-## 6. SENSE: The Legibility Layer
+## 7. SENSE: The Legibility Layer
 
 **SENSE** is the layer where reality becomes machine-legible.
 
@@ -135,7 +153,7 @@ Without strong SENSE, AI systems reason on weak, outdated, or misleading represe
 
 ---
 
-## 7. CORE: The Cognition Layer
+## 8. CORE: The Cognition Layer
 
 **CORE** is the reasoning and intelligence layer.
 
@@ -167,7 +185,7 @@ But CORE is only as useful as the representations it receives from SENSE and the
 
 ---
 
-## 8. DRIVER: The Governance and Legitimacy Layer
+## 9. DRIVER: The Governance and Legitimacy Layer
 
 **DRIVER** is the layer that determines whether AI action is authorized, accountable, verifiable, and contestable.
 
@@ -205,7 +223,7 @@ Without DRIVER, AI systems may become powerful but illegitimate.
 
 ---
 
-## 9. Why AI Projects Fail
+## 10. Why AI Projects Fail
 
 Many AI projects fail because organizations treat AI as a model problem.
 
@@ -230,7 +248,7 @@ AI projects often fail not because the model is weak, but because SENSE and DRIV
 
 ---
 
-## 10. Representation Quality
+## 11. Representation Quality
 
 Representation quality is the ability of a system to describe reality accurately enough for responsible AI reasoning and action.
 
@@ -252,7 +270,7 @@ Just as organizations built quality engineering for software, they will need **R
 
 ---
 
-## 11. Representation Risk
+## 12. Representation Risk
 
 Representation risk occurs when an AI system acts on an incomplete, outdated, biased, distorted, or unauthorized model of reality.
 
@@ -271,7 +289,7 @@ In the AI economy, representation risk can become operational risk, financial ri
 
 ---
 
-## 12. Representation Moats
+## 13. Representation Moats
 
 A representation moat is a durable advantage created by superior machine-legible understanding of a domain, ecosystem, workflow, or entity.
 
@@ -292,7 +310,7 @@ They may own the best representations.
 
 ---
 
-## 13. Representation Infrastructure
+## 14. Representation Infrastructure
 
 Representation infrastructure is the set of systems that allow reality to be sensed, encoded, updated, governed, and acted upon.
 
@@ -316,7 +334,7 @@ This infrastructure will become foundational for enterprise AI, public AI system
 
 ---
 
-## 14. The Shift from Automation to Representation
+## 15. The Shift from Automation to Representation
 
 Traditional automation executes predefined rules.
 
@@ -332,7 +350,7 @@ The future enterprise will compete on how well it can make its operations, custo
 
 ---
 
-## 15. The Role of Humans
+## 16. The Role of Humans
 
 The Representation Economy does not remove humans.
 
@@ -357,7 +375,7 @@ The better question is:
 
 ---
 
-## 16. Enterprise Implications
+## 17. Enterprise Implications
 
 For enterprises, the Representation Economy changes AI strategy.
 
@@ -377,7 +395,7 @@ This creates a new enterprise AI operating model.
 
 ---
 
-## 17. Institutional Implications
+## 18. Institutional Implications
 
 For institutions, representation becomes a matter of trust.
 
@@ -393,7 +411,7 @@ It explains how AI changes the relationship between reality, power, trust, and a
 
 ---
 
-## 18. Why This Framework Matters Now
+## 19. Why This Framework Matters Now
 
 This framework matters because AI is moving from content generation to institutional action.
 
@@ -418,7 +436,7 @@ The future of AI will depend not only on how intelligent systems are, but on how
 
 ---
 
-## 19. Key Definitions
+## 20. Key Definitions
 
 ### Representation Economy
 
@@ -450,7 +468,7 @@ A durable advantage created by superior representation of entities, workflows, e
 
 ---
 
-## 20. Simple Example
+## 21. Simple Example
 
 Consider an AI system used in an enterprise service environment.
 
@@ -479,7 +497,7 @@ DRIVER determines whether the action is legitimate and accountable.
 
 ---
 
-## 21. What This Framework Is Not
+## 22. What This Framework Is Not
 
 This framework is not:
 
@@ -494,7 +512,7 @@ It is a conceptual and practical framework for understanding how AI systems conv
 
 ---
 
-## 22. Why the Representation Economy May Become a Major Category
+## 23. Why the Representation Economy May Become a Major Category
 
 The Representation Economy may become a major category because AI systems need more than computation.
 
@@ -517,7 +535,7 @@ This may create new roles, new companies, new markets, and new regulatory questi
 
 ---
 
-## 23. Possible Future Roles
+## 24. Possible Future Roles
 
 The Representation Economy may give rise to roles such as:
 
@@ -535,7 +553,7 @@ These roles may help organizations manage the quality and legitimacy of AI-media
 
 ---
 
-## 24. Possible Future Companies
+## 25. Possible Future Companies
 
 New companies may emerge around:
 
@@ -556,7 +574,7 @@ They may build the trusted representation layer of the AI economy.
 
 ---
 
-## 25. Closing Argument
+## 26. Closing Argument
 
 The AI era will not be defined only by who has the most powerful model.
 
@@ -567,6 +585,8 @@ Models generate intelligence.
 Representations give intelligence something to understand.
 
 Governance gives intelligence permission to act.
+
+The Representation Economy proposes that the next phase of the AI era will be defined not only by intelligence generation, but by the ability of institutions to construct, govern, verify, and operationalize machine-legible representations of reality.
 
 That is why the Representation Economy matters.
 
@@ -582,17 +602,13 @@ Singh, Raktim. *The Definitive Guide to the Representation Economy and the SENSE
 
 ## Author
 
-**Raktim Singh** is a technologist, author, speaker, and researcher focused on enterprise AI, AI governance, digital transformation, and the Representation Economy.
+Raktim Singh is a technologist, researcher, author, and speaker working on enterprise AI, institutional intelligence, AI governance, and machine-legible systems.
 
-Official links:
+For publications, profiles, citations, and public research links, see:
 
-- Website: https://www.raktimsingh.com
-- LinkedIn: https://www.linkedin.com/in/raktimsingh
-- GitHub: https://github.com/raktims2210-dev/representation-economy
-- YouTube: https://www.youtube.com/@raktim_hindi
-- ORCID: https://orcid.org/0009-0002-6207-602X
-- Zenodo DOI: https://doi.org/10.5281/zenodo.20315480
-- Figshare DOI: https://doi.org/10.6084/m9.figshare.32345211
+- AUTHOR.md
+- PUBLICATION_LINKS.md
+- MEDIA_KIT.md
 
 ---
 
