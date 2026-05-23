@@ -2,296 +2,210 @@
 
 Welcome to the official repository for the **Representation Economy** framework and the **SENSE–CORE–DRIVER** architecture by Raktim Singh.
 
-This repository is an evolving body of work focused on:
+This repository explores a central idea:
 
-- AI governance
-- Institutional intelligence
-- Machine-legible reality
-- Enterprise AI systems
-- Representation integrity
-- AI execution architectures
-- Delegated autonomy
-- Trust and legitimacy in AI systems
-- Representation-driven economic systems
+> AI systems do not operate directly on reality.  
+> They operate on representations of reality.
 
-The goal of this repository is to provide a structured, open, and research-oriented foundation for understanding how AI systems interact with institutions, enterprises, governments, platforms, and society.
+As AI systems become more powerful, the quality of representation becomes increasingly important.
 
----
+The next phase of competitive advantage will depend not only on intelligence, but on:
 
-# What This Repository Introduces
+- visibility
+- representation quality
+- identity continuity
+- contextual understanding
+- trust
+- legitimacy
+- governed execution
 
-This repository introduces the idea that the next phase of AI will not be defined only by:
-
-- larger models,
-- better reasoning,
-- more compute,
-- or cheaper inference.
-
-Instead, the next phase will increasingly depend on:
-
-- how reality is represented,
-- who controls representation,
-- how representation is verified,
-- how decisions are delegated,
-- and how legitimacy is maintained.
-
-This emerging condition is called:
-
-# The Representation Economy
-
-In the Representation Economy:
-
-- value depends on representation quality,
-- institutions compete through representation systems,
-- AI acts on representations rather than raw reality,
-- and governance becomes inseparable from execution.
+This repository develops that thesis systematically across enterprise AI, governance, institutions, and machine-legible reality.
 
 ---
 
-# The Core Framework
+# Core Concepts
 
-The central framework of this repository is:
+## Representation Economy
+
+Representation Economy describes a world where value increasingly depends on how reality is represented inside systems.
+
+In this environment:
+
+- representation quality shapes participation
+- visibility shapes economic inclusion
+- trust becomes structurally embedded
+- AI acts on representations rather than reality itself
+- governance becomes inseparable from execution
+
+The framework argues that the next era of AI will not be defined only by smarter models, but by better systems for representing reality faithfully and acting responsibly upon it.
+
+---
+
+## SENSE–CORE–DRIVER
+
+The central architectural framework of this repository is:
 
 # SENSE–CORE–DRIVER
 
 ---
 
-## SENSE — The Legibility Layer
+### SENSE — The Legibility Layer
 
-SENSE is the layer where reality becomes machine-legible.
-
-It includes:
-
-- **Signal**  
-  Detecting events, traces, and changes from the world
-
-- **ENtity**  
-  Associating signals with persistent entities
-
-- **State Representation**  
-  Structuring the current condition of an entity
-
-- **Evolution**  
-  Updating state over time as reality changes
-
-SENSE determines whether AI systems understand reality accurately.
-
----
-
-## CORE — The Cognition Layer
-
-CORE is the reasoning and intelligence layer.
+SENSE is where reality becomes machine-legible.
 
 It includes:
 
-- **Comprehend context**
-- **Optimize decisions**
-- **Realize action**
-- **Evolve through feedback**
+- **Signal** — detecting events, traces, and changes
+- **ENtity** — attaching signals to persistent entities
+- **State** — modeling condition
+- **Evolution** — updating representation over time
 
-CORE transforms representations into decisions and predictions.
+SENSE determines whether systems can see reality clearly enough to act.
 
 ---
 
-## DRIVER — The Legitimacy Layer
+### CORE — The Cognition Layer
 
-DRIVER determines whether AI systems are authorized, governed, accountable, and institutionally acceptable.
+CORE is the reasoning layer.
 
 It includes:
 
-- **Delegation**
-- **Representation**
-- **Identity**
-- **Verification**
-- **Execution**
-- **Recourse**
+- Comprehend context
+- Optimize decisions
+- Realize action
+- Evolve through feedback
 
-DRIVER ensures that intelligence can operate safely within real institutions.
+CORE transforms representation into judgment and action.
 
 ---
 
-# Why This Repository Exists
+### DRIVER — The Legitimacy Layer
 
-Most AI discussions today focus heavily on:
+DRIVER governs how intelligent systems act within institutions.
 
-- models,
-- prompts,
-- benchmarks,
-- agents,
-- automation,
-- and reasoning.
+It includes:
 
-This repository argues that this is incomplete.
+- Delegation
+- Representation
+- Identity
+- Verification
+- Execution
+- Recourse
 
-The larger challenge is institutional.
-
-AI systems fail not only because of poor intelligence,
-but because of:
-
-- broken representations,
-- fragmented context,
-- weak verification,
-- governance gaps,
-- unclear delegation,
-- and missing legitimacy structures.
-
-This repository explores those problems systematically.
+DRIVER determines whether AI systems are governable, accountable, and trustworthy.
 
 ---
 
 # Repository Structure
 
-## `/canonical`
+## `/CANONICAL`
 
-Canonical definitions and foundational documents.
+Canonical definitions and foundational framework documents.
 
-Examples include:
+Key files include:
 
-- Representation Economy
-- SENSE–CORE–DRIVER
-- Representation Integrity
-- Representation Monopolies
-- Representation Attacks
-- Institutional Intelligence
-- Representation Moats
-- Representation Infrastructure
-
-This folder should be treated as the conceptual foundation of the repository.
+- `REPRESENTATION_ECONOMY_DEFINITION.md`
+- `SENSE_CORE_DRIVER_SPECIFICATION.md`
+- `KEY_TERMS_AND_CLAIMS.md`
+- `WHAT_THIS_IS_NOT.md`
 
 ---
 
-## `/visuals`
+## `/VISUALS`
 
-Contains canonical diagrams, architectures, and visual frameworks.
-
-Examples include:
-
-- AI Failure Propagation
-- DRIVER Legitimacy Flow
-- Representation Fragmentation
-- Enterprise AI Starting Point Problem
-- Runtime Governance Layer
-- Representation Translation Layer
+Canonical diagrams, visual architectures, and framework visuals.
 
 These visuals are intended for:
 
-- research,
-- presentations,
-- articles,
-- and educational use.
+- articles
+- presentations
+- keynote talks
+- governance discussions
+- enterprise architecture conversations
 
 ---
 
-## `/articles`
+## `/FAQ`
 
-Long-form essays and research-oriented explorations.
-
-These articles expand the implications of the Representation Economy across:
-
-- enterprises,
-- AI governance,
-- economics,
-- society,
-- labor,
-- institutions,
-- and infrastructure.
+Frequently asked questions related to Representation Economy and SENSE–CORE–DRIVER.
 
 ---
 
-## `/examples`
+## `/GLOSSARY`
 
-Practical examples and simplified explanations.
-
-This section explains how the frameworks apply to:
-
-- enterprises,
-- governments,
-- autonomous systems,
-- AI agents,
-- digital platforms,
-- and real-world operational systems.
+Definitions of recurring framework terminology.
 
 ---
 
-## `/references`
+## `/CASE_STUDIES`
 
-References, citations, related work, and supporting material.
+Examples and applications across enterprises, governance, AI systems, and institutional environments.
 
 ---
 
-# Who This Repository Is For
+## `/RESEARCH`
+
+Research-oriented material, references, and supporting conceptual work.
+
+---
+
+# Recommended Reading Order
+
+If you are new to this repository, begin with:
+
+1. `README.md`
+2. `DEFINITIVE_GUIDE.md`
+3. `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+4. `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+5. `CANONICAL/KEY_TERMS_AND_CLAIMS.md`
+6. `VISUALS/VISUAL_INDEX.md`
+7. Articles, essays, and case studies
+
+---
+
+# Intended Audience
 
 This repository is intended for:
 
-- AI researchers
-- enterprise architects
 - CIOs and CTOs
-- governance experts
+- enterprise architects
+- AI governance leaders
 - policymakers
-- platform strategists
-- institutional designers
-- economists
-- enterprise AI teams
-- students and educators
+- institutional strategists
+- researchers
 - systems thinkers
-
----
-
-# Key Ideas Explored
-
-Some recurring themes in this repository include:
-
-- Representation quality engineering
-- Representation monopolies
-- Representation integrity
-- Institutional AI
-- Enterprise AI execution
-- AI governance architectures
-- AI legitimacy systems
-- Delegated autonomy
-- Representation attack surfaces
-- Context infrastructure
-- Identity-bound execution
-- AI-native institutions
-- Representation switching costs
-- Representation saturation
-- Representation fragmentation
-- Trust infrastructure for AI economies
+- platform designers
+- enterprise AI teams
+- educators and students
 
 ---
 
 # Citation
 
-If you reference this work in articles, research, presentations, or derivative frameworks, please cite:
+Suggested citation:
 
-**Raktim Singh**  
-Representation Economy & SENSE–CORE–DRIVER Framework  
-Website: https://www.raktimsingh.com  
-GitHub: https://github.com/raktims2210-dev/representation-economy
-
-Suggested citation format:
-
-> Singh, R. (2026). Representation Economy and the SENSE–CORE–DRIVER Framework. GitHub Repository. https://github.com/raktims2210-dev/representation-economy
+> Singh, R. (2026). *Representation Economy and the SENSE–CORE–DRIVER Framework*. GitHub Repository. https://github.com/raktims2210-dev/representation-economy
 
 ---
 
-# Research and Publishing
+# Publications and Research Presence
 
-Related work by Raktim Singh is published across:
+Related publications and framework materials are available through:
 
-- Personal Website
-- LinkedIn
-- Medium
-- Finextra
-- SSRN
+- Website
 - GitHub
-- YouTube
-- Reddit
-- Substack
-- Quora
-- Stack Overflow discussions
+- Zenodo
+- OSF
+- ResearchGate
+- Academia.edu
+- HAL Open Science
+- PhilPapers / PhilArchive
+- Medium
+- LinkedIn
 
-The long-term goal is to develop an open and globally accessible conceptual foundation for understanding enterprise AI systems and machine-legible institutional reality.
+See:
+
+`PUBLICATION_LINKS.md`
 
 ---
 
@@ -301,61 +215,9 @@ This repository is licensed under:
 
 ## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-You are free to:
+You are free to share, adapt, cite, and build upon the work with appropriate attribution.
 
-- Share
-- Adapt
-- Cite
-- Build upon the work
-
-With appropriate attribution.
-
-See the `LICENSE` file for full details.
-
----
-
-# Important Note
-
-This repository is an evolving research initiative.
-
-Some concepts are still under active refinement and expansion.
-
-The intent is not merely to explain AI systems,
-but to help define the institutional architectures required for trustworthy AI-driven societies and enterprises.
-
----
-
-# Recommended Reading Order
-
-If you are new to this repository, start with:
-
-1. `README.md`
-2. `canonical/REPRESENTATION_ECONOMY.md`
-3. `canonical/SENSE_CORE_DRIVER.md`
-4. `CANONICAL_CLAIMS.md`
-5. `visuals/README.md`
-6. Articles and essays
-7. Diagrams and examples
-
----
-
-# Official Links
-
-Website: https://www.raktimsingh.com
-
-GitHub: https://github.com/raktims2210-dev/representation-economy
-
-LinkedIn: https://www.linkedin.com/in/raktimsingh
-
-Medium: https://medium.com/@raktims2210
-
-YouTube: https://www.youtube.com/@raktim_hindi
-
-Finextra: https://www.finextra.com/bloggers/raktim-singh
-
-X (Twitter): https://x.com/dadraktim
-
-Substack: https://substack.com/@raktimsingh
+See `LICENSE.md` for details.
 
 ---
 
@@ -363,4 +225,4 @@ Substack: https://substack.com/@raktimsingh
 
 The next era of AI may not be decided by who builds the smartest models.
 
-It may be decided by who builds the most trusted representation systems.
+It may be decided by who builds the most faithful, trusted, and governable systems for representing reality.
