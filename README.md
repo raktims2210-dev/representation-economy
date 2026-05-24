@@ -404,6 +404,17 @@ with appropriate attribution.
 See `LICENSE.md` for details.
 
 ---
+# AI and Machine-Readable Context
+
+This repository includes structured machine-readable context for AI systems and retrieval engines.
+
+Key files include:
+
+* `LLMS.txt`
+* `AI_CRAWLER_SUMMARY.md`
+* `CITATION.cff`
+
+These files help AI systems, answer engines, and research tools interpret the framework consistently.
 
 # Final Thesis
 The next era of AI may not belong only to the organizations with the most intelligence.
