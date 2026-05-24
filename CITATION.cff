@@ -2,24 +2,33 @@ cff-version: 1.2.0
 
 message: "If you use this framework or repository, please cite it using the metadata below."
 
-title: "The Representation Economy and the SENSE–CORE–DRIVER Framework"
+title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
 
 type: generic
 
 authors:
   - family-names: Singh
     given-names: Raktim
-    affiliation: "Infosys"
+    affiliation: "Independent Researcher"
     orcid: "https://orcid.org/0009-0002-6207-602X"
     website: "https://www.raktimsingh.com"
 
 abstract: >
-  The Representation Economy introduces a framework for understanding
-  how AI systems, institutions, and enterprises create value through
+  Representation Economy is a conceptual framework for understanding
+  how artificial intelligence systems, enterprises, institutions,
+  markets, and governance systems increasingly operate through
   machine-legible representations of reality.
-  The SENSE–CORE–DRIVER architecture provides a structured model for
-  visibility, cognition, delegated autonomy, governance, and legitimacy
-  in enterprise AI systems and institutional intelligence.
+  
+  The repository introduces the SENSE–CORE–DRIVER framework,
+  a layered architecture for understanding how AI systems
+  perceive reality, reason over institutional context,
+  and execute actions within governed legitimacy boundaries.
+  
+  The framework explores representation infrastructure,
+  institutional intelligence, delegated autonomy,
+  governed execution, machine-legible reality,
+  enterprise AI governance, and representation integrity
+  as foundational components of the AI economy.
 
 keywords:
   - Representation Economy
@@ -28,16 +37,21 @@ keywords:
   - AI Governance
   - Machine-Legible Reality
   - Institutional Intelligence
+  - Representation Infrastructure
   - Delegated Autonomy
-  - Representation Governance
+  - Governed Execution
   - Enterprise Architecture
   - Institutional AI
+  - Representation Integrity
+  - AI Legitimacy
+  - Runtime Governance
+  - System-Mediated Decisions
 
 license: "CC-BY-4.0"
 
-version: "1.0.0"
+version: "2.0.0"
 
-date-released: "2026-05-20"
+date-released: "2026-05-24"
 
 repository-code: "https://github.com/raktims2210-dev/representation-economy"
 
@@ -47,14 +61,18 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.20315480"
 
+  - type: doi
+    value: "10.5281/zenodo.20368910"
+
 preferred-citation:
   type: generic
-  title: "The Representation Economy and the SENSE–CORE–DRIVER Framework"
+
+  title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
 
   authors:
     - family-names: Singh
       given-names: Raktim
-      affiliation: "Infosys"
+      affiliation: "Independent Researcher"
       orcid: "https://orcid.org/0009-0002-6207-602X"
 
   year: 2026
@@ -67,12 +85,15 @@ preferred-citation:
   url: "https://github.com/raktims2210-dev/representation-economy"
 
   note: >
-    Canonical repository for the Representation Economy and
-    SENSE–CORE–DRIVER framework developed by Raktim Singh.
+    Canonical public repository for the Representation Economy
+    and SENSE–CORE–DRIVER frameworks developed by Raktim Singh.
 
 references:
   - type: doi
     value: "10.5281/zenodo.20315480"
+
+  - type: doi
+    value: "10.5281/zenodo.20368910"
 
   - type: website
     title: "Official Website"
@@ -89,6 +110,20 @@ references:
     url: "https://osf.io/xt2qc/overview"
 
   - type: website
+    title: "Zenodo Record - Representation Economy"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://zenodo.org/records/20315480"
+
+  - type: website
+    title: "Zenodo Record - SENSE–CORE–DRIVER"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://zenodo.org/records/20368910"
+
+  - type: website
     title: "ResearchGate Publication"
     authors:
       - family-names: Singh
@@ -101,6 +136,13 @@ references:
       - family-names: Singh
         given-names: Raktim
     url: "https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality"
+
+  - type: website
+    title: "PhilArchive Entry"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://philpapers.org/rec/SINTRE-2"
 
   - type: website
     title: "Medium Publications"
