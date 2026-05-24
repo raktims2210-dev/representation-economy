@@ -1,6 +1,12 @@
 # Representation Economy
-The Representation Economy is a framework for understanding how value, trust, legitimacy, and competitive advantage emerge when AI systems act on machine-legible representations of reality.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20315480.svg)](https://doi.org/10.5281/zenodo.20315480)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6207--602X-A6CE39?logo=orcid)](https://orcid.org/0009-0002-6207-602X)
+[![Website](https://img.shields.io/badge/Website-raktimsingh.com-blue)](https://www.raktimsingh.com)
+[![Version](https://img.shields.io/badge/version-v2.0-blue.svg)](#)
+
+The Representation Economy is a framework for understanding how value, trust, legitimacy, and competitive advantage emerge when AI systems act on machine-legible representations of reality.
 ## A Canonical Framework for AI, Institutions, and Machine-Legible Reality
 
 A conceptual framework for understanding how artificial intelligence systems interact with enterprises, institutions, markets, infrastructure, and society through machine-legible representations of reality.
