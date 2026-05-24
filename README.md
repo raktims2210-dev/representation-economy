@@ -45,7 +45,7 @@ This repository introduces and develops concepts including:
 * Representation Quality Engineering
 * DRIVEROps
 
-The central argument is simple:
+The central thesis is straightforward:
 
 As intelligence becomes more accessible, durable advantage may increasingly depend not only on better models, but on better representations of reality.
 
@@ -55,7 +55,7 @@ As intelligence becomes more accessible, durable advantage may increasingly depe
 
 Canonical Public Research Repository
 Version: v2.0
-Status: Active Working Framework
+Status: Canonical Public Research Repository
 License: CC BY 4.0
 
 ---
@@ -177,6 +177,11 @@ DRIVER determines whether AI systems remain:
 ---
 
 # Why This Repository Exists
+
+Most enterprise AI discussions focus primarily on models, agents, prompts, and reasoning systems.
+
+This repository argues that the deeper institutional challenge is representation:
+how reality becomes visible, structured, governable, and actionable inside machine-mediated systems.
 
 Most AI discussions today focus primarily on:
 
@@ -401,7 +406,10 @@ See `LICENSE.md` for details.
 ---
 
 # Final Thesis
+The next era of AI may not belong only to the organizations with the most intelligence.
 
-The next era of AI may not be won only by the organizations with the smartest models.
+It may belong to the institutions that can represent reality more faithfully, reason over it more responsibly, and execute with greater legitimacy.
 
-It may be won by the institutions that can represent reality more faithfully, reason over it more responsibly, and execute with greater legitimacy.
+In the Representation Economy, visibility becomes infrastructure.
+Representation becomes power.
+And machine-legible reality becomes a foundational layer of institutional advantage.
