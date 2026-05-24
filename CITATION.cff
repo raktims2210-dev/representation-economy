@@ -1,65 +1,68 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it using the metadata below."
-title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
-type: software
+
+message: "If you use this framework or repository, please cite it using the metadata below."
+
+title: "The Representation Economy and the SENSE–CORE–DRIVER Framework"
+
+type: generic
 
 authors:
   - family-names: Singh
     given-names: Raktim
+    affiliation: "Infosys"
     orcid: "https://orcid.org/0009-0002-6207-602X"
     website: "https://www.raktimsingh.com"
 
 abstract: >
-  This repository introduces the Representation Economy and the
-  SENSE–CORE–DRIVER framework for understanding AI systems,
-  institutional intelligence, enterprise AI governance,
-  machine-legible reality, delegated autonomy,
-  and representation-centric architectures for AI-mediated systems.
+  The Representation Economy introduces a framework for understanding
+  how AI systems, institutions, and enterprises create value through
+  machine-legible representations of reality.
+  The SENSE–CORE–DRIVER architecture provides a structured model for
+  visibility, cognition, delegated autonomy, governance, and legitimacy
+  in enterprise AI systems and institutional intelligence.
 
 keywords:
   - Representation Economy
   - SENSE-CORE-DRIVER
   - Enterprise AI
   - AI Governance
-  - Institutional Intelligence
   - Machine-Legible Reality
-  - Representation Integrity
-  - AI Legitimacy
+  - Institutional Intelligence
   - Delegated Autonomy
-  - Enterprise Architecture
   - Representation Governance
-  - AI Systems
-  - Context Infrastructure
+  - Enterprise Architecture
   - Institutional AI
-  - Identity-Bound Execution
 
 license: "CC-BY-4.0"
-
-repository-code: "https://github.com/raktims2210-dev/representation-economy"
-
-url: "https://github.com/raktims2210-dev/representation-economy"
-
-repository-artifact: "https://github.com/raktims2210-dev/representation-economy"
-
-repository: "https://github.com/raktims2210-dev/representation-economy"
 
 version: "1.0.0"
 
 date-released: "2026-05-20"
 
+repository-code: "https://github.com/raktims2210-dev/representation-economy"
+
+url: "https://github.com/raktims2210-dev/representation-economy"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20315480"
+
 preferred-citation:
   type: generic
-  title: "Representation Economy and the SENSE–CORE–DRIVER Framework"
+  title: "The Representation Economy and the SENSE–CORE–DRIVER Framework"
+
   authors:
     - family-names: Singh
       given-names: Raktim
+      affiliation: "Infosys"
       orcid: "https://orcid.org/0009-0002-6207-602X"
-      website: "https://www.raktimsingh.com"
 
   year: 2026
 
   publisher:
     name: "GitHub"
+
+  doi: "10.5281/zenodo.20315480"
 
   url: "https://github.com/raktims2210-dev/representation-economy"
 
@@ -68,6 +71,9 @@ preferred-citation:
     SENSE–CORE–DRIVER framework developed by Raktim Singh.
 
 references:
+  - type: doi
+    value: "10.5281/zenodo.20315480"
+
   - type: website
     title: "Official Website"
     authors:
@@ -76,11 +82,25 @@ references:
     url: "https://www.raktimsingh.com"
 
   - type: website
-    title: "LinkedIn Profile"
+    title: "OSF Project"
     authors:
       - family-names: Singh
         given-names: Raktim
-    url: "https://www.linkedin.com/in/raktimsingh"
+    url: "https://osf.io/xt2qc/overview"
+
+  - type: website
+    title: "ResearchGate Publication"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality"
+
+  - type: website
+    title: "Academia.edu Publication"
+    authors:
+      - family-names: Singh
+        given-names: Raktim
+    url: "https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality"
 
   - type: website
     title: "Medium Publications"
