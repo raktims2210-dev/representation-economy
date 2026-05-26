@@ -392,6 +392,11 @@ Figshare DOI:
 https://doi.org/10.6084/m9.figshare.32393949
 
 ---
+Canonical Governance Paper:
+SENSE–CORE–DRIVER: A Governance Architecture for Enterprise AI
+
+Primary OSF Record:
+https://osf.io/4sbyf/overview
 
 # Official Links
 
