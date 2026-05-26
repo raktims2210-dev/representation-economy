@@ -298,8 +298,16 @@ If you are new to the repository:
 
 ## SENSE–CORE–DRIVER
 
+### Latest Working Paper
+
+**SENSE–CORE–DRIVER: A Governance Architecture for Enterprise AI**
+
+Research Records and Links:
+
+- OSF Project: https://osf.io/4sbyf/overview
 - Zenodo DOI: https://doi.org/10.5281/zenodo.20368910
 - Figshare DOI: https://doi.org/10.6084/m9.figshare.32393949
+- ResearchGate DOI: https://doi.org/10.13140/RG.2.2.26437.00482
 - Zenodo Record: https://zenodo.org/records/20368910
 
 ---
@@ -376,6 +384,10 @@ https://zenodo.org/records/20315480
 ## ResearchGate
 
 https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
+
+## OSF
+
+https://osf.io/4sbyf/overview
 
 ---
 
