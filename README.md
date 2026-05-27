@@ -277,6 +277,17 @@ This repository develops concepts including:
 | Research Focus | AI, Institutions, Governance, Representation |
 
 ---
+## The Representation Economy Framework
+
+The Representation Economy explains how intelligent institutions transform reality into governed action through three interconnected layers:
+
+- **SENSE** → makes reality machine-legible  
+- **CORE** → reasons over represented reality  
+- **DRIVER** → governs legitimate execution and recourse  
+
+![Representation Economy Framework](VISUALS/REPRESENTATION_ECONOMY_FRAMEWORK.png)
+
+> Reality → SENSE → CORE → DRIVER → Governed Action
 
 # Start Here
 
