@@ -31,6 +31,63 @@ The central thesis is simple:
 
 ---
 
+# For Editors, Media, Analysts, and Institutional Leaders
+
+This repository introduces the Representation Economy as a framework for understanding why AI-era value, trust, governance, and competitive advantage increasingly depend on how institutions represent reality for machine reasoning and governed action.
+
+The framework argues that the next major AI transition is not only about larger models, stronger reasoning, or more autonomous systems.
+
+It is about:
+
+- machine legibility,
+- institutional representation,
+- governed execution,
+- runtime legitimacy,
+- and trusted delegation infrastructure.
+
+The repository is intended to serve as:
+- a conceptual framework,
+- a research reference,
+- a governance architecture,
+- and an evolving institutional vocabulary for the AI era.
+
+---
+
+# Key Claims
+
+- AI systems do not operate directly on reality.
+- They operate on representations of reality.
+- Better models cannot compensate for poor representation.
+- Representation quality will become a source of institutional advantage.
+- Governed execution will define trust in AI-mediated institutions.
+- Many AI failures begin before the model.
+- Visibility, legitimacy, and recourse are becoming strategic infrastructure.
+
+---
+
+# What Makes This Original?
+
+This framework introduces a structural shift in how AI systems are understood.
+
+Unlike traditional AI discussions that focus primarily on:
+- models,
+- prompts,
+- agents,
+- reasoning,
+- and automation,
+
+the Representation Economy focuses on the deeper institutional architecture beneath AI systems.
+
+## The framework is distinctive because:
+
+- It shifts AI strategy from model performance to representation quality.
+- It separates machine legibility, cognition, and governed execution into independent layers.
+- It explains why many AI failures originate before the model.
+- It introduces representation as economic and institutional infrastructure.
+- It gives boards, CIOs, architects, and policymakers a language for AI-era institutional design.
+
+---
+
 # Why This Repository Exists
 
 Most AI discussions today focus primarily on:
@@ -84,6 +141,22 @@ AI systems create value when they:
 This repository introduces a conceptual architecture for understanding that transition.
 
 ---
+
+# The SENSE–CORE–DRIVER Framework
+
+SENSE–CORE–DRIVER is a layered architecture for understanding how AI systems:
+
+1. observe reality,
+2. reason about reality,
+3. and execute action inside institutional environments.
+
+The framework separates enterprise AI systems into three interconnected layers:
+
+| Layer | Function |
+|---|---|
+| **SENSE** | Makes reality machine-legible |
+| **CORE** | Reasons over represented reality |
+| **DRIVER** | Governs execution, legitimacy, and recourse |
 
 # The SENSE–CORE–DRIVER Framework
 
