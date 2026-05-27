@@ -141,6 +141,22 @@ AI systems create value when they:
 This repository introduces a conceptual architecture for understanding that transition.
 
 ---
+## How to Cite
+
+If you reference the Representation Economy or the SENSE–CORE–DRIVER framework in research, articles, presentations, or enterprise work, please cite:
+
+> Singh, R. (2026). *The Representation Economy: A Framework for AI, Institutions, and Machine-Legible Reality*.  
+> Zenodo. https://doi.org/10.5281/zenodo.20315480
+
+### Related Framework
+
+> Singh, Raktim (2026). *SENSE–CORE–DRIVER: A Governance Architecture for Enterprise AI*.  
+> Zenodo. https://doi.org/10.5281/zenodo.20368910
+
+Additional research links:
+- OSF: https://osf.io/xt2qc/overview
+- Figshare: https://doi.org/10.6084/m9.figshare.32345211
+- ORCID: https://orcid.org/0009-0002-6207-602X
 
 # The SENSE–CORE–DRIVER Framework
 
