@@ -410,6 +410,7 @@ If you are new to the repository:
 - PhilArchive: https://philpapers.org/rec/SINTRE-2
 - ResearchGate: https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_Framework_for_AI_Institutions_and_Machine-Legible_Reality
 - Academia.edu: https://www.academia.edu/167478666/The_Representation_Economy_A_Canonical_Framework_for_AI_Institutions_and_Machine_Legible_Reality
+- OpenAlex :https://openalex.org/authors/a5136665700
 
 ### SENSE–CORE–DRIVER
 
@@ -507,6 +508,7 @@ https://www.researchgate.net/publication/405094400_The_Representation_Economy_A_
 https://osf.io/xt2qc/overview
 
 ---
+OpenAlex :https://openalex.org/authors/a5136665700
 
 ## Author
 
