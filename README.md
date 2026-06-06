@@ -5,6 +5,17 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6207--602X-A6CE39?logo=orcid)](https://orcid.org/0009-0002-6207-602X)
 [![Website](https://img.shields.io/badge/Website-raktimsingh.com-blue)](https://www.raktimsingh.com)
 [![Version](https://img.shields.io/badge/version-v2.0-blue.svg)](#)
+## Start Here in 60 Seconds
+
+If you are new to this framework, read in this order:
+
+1. **Core Idea:** AI does not act on reality; it acts on representations of reality.
+2. **Main Framework:** SENSE makes reality machine-legible, CORE reasons over it, DRIVER governs action.
+3. **Best First File:** [DEFINITIVE_GUIDE.md](DEFINITIVE_GUIDE.md)
+4. **How to Cite:** Use the Zenodo DOI: https://doi.org/10.5281/zenodo.20315480
+
+In one line:  
+**The Representation Economy explains why future AI advantage will depend not only on better models, but on better representations of reality and governed execution.**
 
 ## A Canonical Framework for AI, Institutions, and Machine-Legible Reality
 
