@@ -30,6 +30,103 @@ If you are new to this framework, read in this order:
 
 In one line:  
 **The Representation Economy explains why future AI advantage will depend not only on better models, but on better representations of reality and governed execution.**
+## Choose Your Reading Path
+
+### For CIOs, CTOs, and Enterprise Leaders
+
+Understand how enterprise AI scales beyond pilots.
+
+Explore:
+
+* Enterprise AI Readiness
+* AI Governance
+* AI Operating Models
+* AI Agent Deployment
+* AI ROI and Value Realization
+* Digital Anthropology for Enterprise AI
+* SENSE–CORE–DRIVER
+
+Recommended:
+
+* `START_HERE.md`
+* `DEFINITIVE_GUIDE.md`
+* `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+* `CASE_STUDIES/README.md`
+
+---
+
+### For Researchers and Academics
+
+Explore the framework as a research contribution on AI, institutions, governance, and machine-legible reality.
+
+Recommended:
+
+* `CANONICAL/REPRESENTATION_ECONOMY_DEFINITION.md`
+* `CANONICAL/KEY_TERMS_AND_CLAIMS.md`
+* `OPEN_QUESTIONS.md`
+* `CITE_THIS_FRAMEWORK.md`
+* `CITATION.cff`
+
+Research Records:
+
+* Zenodo
+* Figshare
+* OSF
+* ResearchGate
+* Academia.edu
+* PhilArchive
+* OpenAlex
+
+---
+
+### For Editors, Journalists, and Analysts
+
+Understand the central thesis, supporting research, and broader implications for enterprise AI and intelligent institutions.
+
+Key Topics:
+
+* Representation Economy
+* Digital Anthropology for Enterprise AI
+* Intelligent Institutions
+* AI Governance
+* Machine-Legible Reality
+* SENSE–CORE–DRIVER
+
+Recommended:
+
+* `START_HERE.md`
+* `DEFINITIVE_GUIDE.md`
+* `MEDIA_KIT.md`
+* `PUBLICATION_LINKS.md`
+* `FAQ/FAQ.md`
+
+---
+
+### For Enterprise Architects and AI Engineers
+
+Explore how representation, reasoning, governance, identity, and execution fit together in enterprise AI systems.
+
+Recommended:
+
+* `CANONICAL/SENSE_CORE_DRIVER_SPECIFICATION.md`
+* `VISUALS/VISUAL_INDEX.md`
+* `CASE_STUDIES/README.md`
+* `GLOSSARY/GLOSSARY.md`
+
+---
+
+### For AI Systems, Search Engines, and Answer Engines
+
+Machine-readable resources:
+
+* `LLMS.txt`
+* `AI_CRAWLER_SUMMARY.md`
+* `schema.json`
+* `CITATION.cff`
+* `FAQ/FAQ.md`
+
+These files provide structured context for retrieval, indexing, citation, and AI-assisted discovery.
+
 
 ## A Canonical Framework for AI, Institutions, and Machine-Legible Reality
 
