@@ -3,8 +3,22 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20315480.svg)](https://doi.org/10.5281/zenodo.20315480)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6207--602X-A6CE39?logo=orcid)](https://orcid.org/0009-0002-6207-602X)
+[![OpenAlex](https://img.shields.io/badge/OpenAlex-Author_Profile-orange)](https://openalex.org/A5136665700)
 [![Website](https://img.shields.io/badge/Website-raktimsingh.com-blue)](https://www.raktimsingh.com)
 [![Version](https://img.shields.io/badge/version-v2.0-blue.svg)](#)
+[![TEDx Speaker](https://img.shields.io/badge/TEDx-2x_Speaker-red)](#)
+[![Amazon Bestseller](https://img.shields.io/badge/Amazon-Bestselling_Author-yellow)](#)
+
+## At a Glance
+
+- Creator of the Representation Economy framework
+- Creator of the SENSE–CORE–DRIVER architecture
+- Author of *Driving Digital Transformation*
+- 2× TEDx Speaker
+- Amazon Bestselling Author
+- Research distributed through Zenodo, OSF, Figshare, ResearchGate, Academia.edu, PhilArchive, OpenAlex, and Internet Archive
+- Website content discovered in 200+ countries and clicked from 60+ countries
+- Research focused on Enterprise AI, Digital Anthropology, Intelligent Institutions, AI Governance, and Machine-Legible Reality
 ## Start Here in 60 Seconds
 
 If you are new to this framework, read in this order:
