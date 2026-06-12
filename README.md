@@ -8,6 +8,9 @@
 [![Version](https://img.shields.io/badge/version-v2.0-blue.svg)](#)
 [![TEDx Speaker](https://img.shields.io/badge/TEDx-2x_Speaker-red)](#)
 [![Amazon Bestseller](https://img.shields.io/badge/Amazon-Bestselling_Author-yellow)](#)
+Author: Raktim Singh
+Email: raktims2210@gmail.com
+ORCID: 0009-0002-6207-602X
 
 ## At a Glance
 
